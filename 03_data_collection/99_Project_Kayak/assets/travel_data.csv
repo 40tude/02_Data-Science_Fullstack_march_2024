@@ -1,141 +1,263 @@
 ,hotel,url,index,score,latitude,longitude,description,city,latitude_city,longitude_city,temp,rain
-0,GAMBETTA résidences hôtel Paris centre,https://www.booking.com/hotel/fr/gambetta-rue-des-rondonneaux-75020-paris-centre.fr.html,7.0,7.0,48.86406717,2.39856271,"Situé à Paris, à moins de 3,8 km de l'opéra Bastille et à 4,1 km du centre Pompidou, le GAMBETTA résidences hôtel Paris centre propose des chambres climatisées avec salle de bains privative. Pour votre confort, l'appartement possède une entrée privée. Il propose une salle de sport, une connexion Wi-Fi gratuite dans l'ensemble de ses locaux et des chambres familiales.
+0,Austin's Arts Et Metiers Hotel,https://www.booking.com/hotel/fr/austin-s-arts-et-metiers.fr.html,0,8.2,48.86601094,2.35709757,"L’Austin’s Hotel est situé dans le quartier du Marais, dans le centre de Paris, à 500 mètres de la place de la République et à 600 mètres du centre Pompidou. L’hôtel dispose d’une réception ouverte 24h/24 qui propose des ordinateurs avec connexion Internet gratuite.
 
-Tous les logements comprennent une télévision par satellite, du matériel de repassage, une armoire, un coin salon avec un canapé ainsi qu'une cuisine entièrement équipée avec un lave-vaisselle et un four. Un micro-ondes, un grille-pain, un réfrigérateur, une machine à café et une bouilloire sont également fournis. Tous les logements sont hypoallergéniques.
+Toutes les chambres insonorisées de l’Austin’s Arts Et Metiers Hotel disposent de la climatisation, d’une télévision par satellite à écran plat et d’une connexion Wi-Fi gratuite.
 
-Vous trouverez un café et une supérette sur place.
+L’hôtel sert un petit-déjeuner continental que vous pourrez déguster dans la salle de petit-déjeuner ou dans le confort de votre chambre. Un plateau de courtoisie avec du thé, du café et du lait est mis à disposition dans chaque chambre.
 
-Vous séjournerez à 4,4 km de la gare de l'Est et à 4,6 km de Paris-Gare-de-Lyon. L'aéroport le plus proche, celui de Paris-Charles-de-Gaulle, est situé à 19 km.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-1,Sonder Quintinie,https://www.booking.com/hotel/fr/residence-quintinie-square.fr.html,4.0,8.3,48.83908932,2.30657101,"Doté d'une connexion Wi-Fi gratuite et d'une terrasse, l’hôtel Sonder Quintinie vous propose un hébergement indépendant à Paris. Le parc des expositions Paris Expo - Porte de Versailles se trouve à 1,5 km de l'établissement, tandis que l'Institut Pasteur est accessible à 5 minutes de marche.
+L'Austin's Arts Et Metiers Hotel se trouve à 30 mètres de la station de métro Arts & Métiers. De là, vous pourrez rejoindre les stations de métro Hôtel de Ville et Opéra en 10 minutes.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+1,Sonder Quintinie,https://www.booking.com/hotel/fr/residence-quintinie-square.fr.html,4,8.3,48.83908932,2.30657101,"Doté d'une connexion Wi-Fi gratuite et d'une terrasse, l’hôtel Sonder Quintinie vous propose un hébergement indépendant à Paris. Le parc des expositions Paris Expo - Porte de Versailles se trouve à 1,5 km de l'établissement, tandis que l'Institut Pasteur est accessible à 5 minutes de marche.
 
 Revêtus de parquet, tous les studios décorés avec goût comprennent de grandes fenêtres et une literie confortable. Leur kitchenette est équipée d'un micro-ondes et d'un réfrigérateur. Des plaques de cuisson, une machine à café et une bouilloire sont également à disposition. Le linge de lit est fourni.
 
-L'hôtel Sonder Quintinie se trouve à 2,3 km de la tour Eiffel et à 2,7 km du musée d'Orsay. L’aéroport de Paris-Orly, le plus proche, est installé à 13 km. Enfin, l’hôtel possède aussi un parking gratuit pour les vélos dans la cour, sous réserve de disponibilité.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-2,Best Western Bretagne Montparnasse,https://www.booking.com/hotel/fr/bwdebretagne.fr.html,6.0,8.3,48.83548674,2.32108712,"Cet hôtel Best Western est situé à 10 minutes de la gare et de la tour Montparnasse. Il propose des chambres climatisées avec une connexion Wi-Fi gratuite et la télévision par satellite.
+L'hôtel Sonder Quintinie se trouve à 2,3 km de la tour Eiffel et à 2,7 km du musée d'Orsay. L’aéroport de Paris-Orly, le plus proche, est installé à 13 km. Enfin, l’hôtel possède aussi un parking gratuit pour les vélos dans la cour, sous réserve de disponibilité.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+2,WIT Hotel,https://www.booking.com/hotel/fr/mattle.fr.html,2,7.1,48.87363773,2.344881,"WIT Hotel se trouve à 15 minutes à pied de l'opéra Garnier et des Galeries Lafayette. Il propose des chambres climatisées desservies par un ascenseur et dotées d'une télévision et d'une connexion Internet.
 
-Toutes les chambres affichent une décoration classique et comprennent également un mini-réfrigérateur, un plateau/bouilloire ainsi qu'une salle de bains privative avec un sèche-cheveux.
+Un petit-déjeuner buffet est servi chaque jour. WIT Hotel comprend également une réception ouverte 24h/24.
 
-Vous pourrez savourer un petit-déjeuner buffet tous les matins dans la salle de petit-déjeuner de l'hôtel Bretagne Montparnasse.
+L'hôtel est situé en face des Folies-Bergère, à 2 minutes à pied de la station de métro Grands Boulevards qui permet d’accéder aux Champs-Élysées et à la tour Eiffel.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+3,Parc Hotel,https://www.booking.com/hotel/fr/parc.fr.html,7,7.6,48.82469312,2.32677072,"Le Parc Hotel se trouve dans un quartier paisible de Paris, à 400 mètres de l'arrêt de tramway Porte d'Orléans permettant d'accéder au parc des expositions de la porte de Versailles en moins de 15 minutes. Il est également situé à 450 mètres de la station de métro Alésia, desservant directement le centre-ville.
 
-La réception ouverte 24h/24 propose un service de location de vélos et met un ordinateur à votre disposition.
+Les chambres insonorisées de l'établissement disposent d'un bureau et d'une télévision par câble à écran LED. Leur salle de bains privative est pourvue d'un sèche-cheveux. Toutes les chambres sont non-fumeurs et desservies par un ascenseur.
 
-La station de métro Pernety, qui permet d'accéder directement aux Champs-Élysées, est à 300 mètres. L'aéroport d'Orly se trouve à seulement 13 minutes de route.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-3,Hôtel Sunny,https://www.booking.com/hotel/fr/sunny.fr.html,1.0,7.6,48.83754217,2.34678805,"Cet hôtel familial est situé dans le 5ème arrondissement de Paris, à seulement 450 mètres de la station de métro Les Gobelins. Il propose des chambres insonorisées avec télévision par satellite à écran plat et salle de bains privative.
+L'hôtel sert un petit-déjeuner buffet quotidien. Il possède un distributeur automatique disponible 24h/24 et un service de commande de journaux. Une connexion Wi-Fi est mise gratuitement à votre disposition dans l'ensemble du Parc Hotel, et vous pourrez profiter d'un parking public à proximité.
 
-Un petit-déjeuner continental est servi tous les matins à l'hôtel et peut être savouré dans les chambres. Vous trouverez également des distributeurs automatiques vendant des collations et des boissons, disponibles tous les jours, 24h/24.
+Les transports en commun disponibles près de l'établissement vous permettront d'accéder directement aux principaux sites d'intérêt de Paris. Les jardins du Luxembourg et Saint-Michel se trouvent à 15 minutes, et la place du Châtelet est à 20 minutes de l'hôtel.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+4,Hotel des Vosges,https://www.booking.com/hotel/fr/des-vosges-paris.fr.html,6,8.0,48.86777797,2.38290846,"L'Hotel des Vosges vous accueille dans le XXe arrondissement de Paris, à seulement 700 mètres du cimetière du Père Lachaise. Il vous propose une réception ouverte 24h/24 et une connexion Wi-Fi gratuite. La station de métro Ménilmontant, située à 95 mètres, vous permettra de rejoindre directement le Sacré Cœur.
 
-L'Hôtel Sunny dispose d'une réception ouverte 24h/24 et d'une connexion Wi-Fi accessible gratuitement dans l'ensemble de l'établissement. Il se trouve à seulement 15 minutes à pied du Jardin du Luxembourg et à 2 km du Quartier latin.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-4,Hôtel Clauzel Paris,https://www.booking.com/hotel/fr/clauzel.fr.html,0.0,7.5,48.87873949,2.33970523,"Installé dans le 9ème arrondissement du centre de Paris, cet hôtel se trouve à 12 minutes à pied des Galeries Lafayette. Il dispose de chambres avec télévision à écran plat et d'une réception ouverte 24h/24.
+Sobrement décorées, les chambres disposent toutes d'une télévision à écran plat, d'une armoire et du chauffage. Elles possèdent également une salle de bains privative.
 
-Chaque chambre est dotée d'un téléphone et de meubles en bois. Chacune comprend une salle de bains privative avec sèche-cheveux. L'hôtel Clauzel possède un ascenseur.
+Le matin, un petit-déjeuner continental vous sera servi dans la salle prévue à cet effet à l'Hotel des Vosges. Des restaurants vous attendent à quelques pas.
 
-Un petit-déjeuner continental est servi chaque matin dans la salle de petit-déjeuner de l'hôtel Clauzel. Après le petit-déjeuner, vous pourrez utiliser l'ordinateur doté d'une connexion Internet, disponible à la réception.
+À pied depuis l'Hotel des Voges, vous rejoindrez le quartier très prisé d'Oberkampf en 5 minutes et le parc des Buttes Chaumont en 15 minutes. La gare du Nord est située sur la même ligne de métro et la gare de l'Est se trouve à 2,5 km. Vous bénéficierez de prix réduits pour le stationnement.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+5,Amiral-Fondary,https://www.booking.com/hotel/fr/amiral-fondary.fr.html,1,8.2,48.84778595,2.29383677,"L'hôtel Amiral-Fondary est situé dans le 15ème arrondissement de Paris, à 15 minutes à pied de la Tour Eiffel et de L'Hôtel National des Invalides. L’établissement dispose d’une connexion Wi-Fi gratuite.
 
-La station de métro Notre-Dame-de-Lorette est située à 400 mètres, vous permettant de rejoindre la basilique du Sacré-Cœur. La gare Saint-Lazare est accessible en 15 minutes de marche.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-5,Le Petit Cosy Hôtel,https://www.booking.com/hotel/fr/cosy.fr.html,2.0,8.4,48.84466734,2.4024345,"Situé à seulement 5 minutes à pied de la station de RER Nation, Le petit Cosy Hôtel propose un restaurant de style brasserie et une connexion Wi-Fi gratuite dans l'ensemble des locaux. Il se trouve juste à côté de la station de métro Picpus et à 20 minutes de marche du bois de Vincennes.
+Les chambres de l'Amiral-Fondary sont équipées d'une salle de bains privative, de la climatisation et d'une télévision à écran plat.
 
-Les chambres du Petit Cosy Hôtel sont aménagées dans un style moderne. Elles bénéficient toutes d'une salle de bains privative ou d'une vue sur la cour intérieure.
+L'hôtel sert un petit-déjeuner continental quotidien, qui peut également être pris en chambre sur demande.
 
-Le restaurant Cosy sert un petit-déjeuner continental et une cuisine régionale. Vous pourrez également vous détendre dans le bar-salon ou sur la terrasse tout en profitant d'un cocktail ou d'une coupe de champagne.
+L’établissement se trouve à seulement 150 mètres de la station de métro Émile Zola, qui vous permettra d'accéder aux nombreux sites touristiques de la capitale. La gare Montparnasse est accessible en 10 minutes en métro.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+6,55 Hôtel Montparnasse,https://www.booking.com/hotel/fr/hotel-montparnasse.fr.html,5,7.7,48.83358173,2.31775045,"Situé dans le 14e arrondissement animé de Paris, le 55 Hôtel Montparnasse propose un petit-déjeuner buffet composé de viennoiseries fraîchement sorties du four, à 100 mètres de la station de métro Pernety, qui permet de rejoindre les Champs-Élysées, et à 650 mètres de la gare de Montparnasse.
 
-La réception ouverte 24h/24 assure un service de bagagerie et son personnel pourra vous conseiller sur les sites d'intérêt de la capitale. Les transports, à proximité de l'hôtel, vous conduiront directement à la tour Montparnasse, à l'avenue des Champs-Élysées et à Disneyland Paris.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-6,Hôtel Pavillon Bastille,https://www.booking.com/hotel/fr/pavillonbastille.fr.html,5.0,8.2,48.85083358,2.37004012,"Situé en face de l’opéra Bastille, à seulement 5 minutes de marche de la station de métro et gare de Lyon, l’Hôtel Pavillon Bastille occupe une maison de ville rénovée qui date du XIXe siècle. Une connexion Wi-Fi gratuite et une télévision par câble sont fournies dans toutes les chambres.
+Climatisées, les chambres contemporaines comprennent une télévision par satellite à écran plat et le double vitrage. Une connexion Wi-Fi est en outre mise gratuitement à votre disposition. La salle de bains privative est pourvue d'un sèche-cheveux et d'articles de toilette gratuits.
 
-Décorés dans des tons neutres, les hébergements élégants sont climatisés. Chaque chambre du Pavillon Bastille comprend un plateau de courtoisie avec du thé, du café et des tisanes. Les salles de bains privatives sont pourvues d'un sèche-cheveux.
+Le petit-déjeuner buffet vous sera servi dans la salle à manger. Tout au long de la journée, vous pourrez également déguster des collations et un éventail de boissons au bar.
 
-Chaque jour, vous pourrez prendre un petit-déjeuner continental et buffet dans la cour paysagée du Pavillon ou dans la salle prévue à cet effet selon la météo. Le personnel disponible 24h/24 pourra vous fournir des renseignements sur les divers restaurants et lieux à visiter de la région. Vous pourrez utiliser une salle de réunion sur réservation préalable.
+Enfin, vous séjournerez à 20 minutes en transports en commun de la Porte de Versailles.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+7,Hotel Paris Italie,https://www.booking.com/hotel/fr/best-western-de-weha.fr.html,3,7.9,48.82999188,2.35672586,"Le Paris Italie bénéficie d’un emplacement idéal pour visiter Paris. Cet établissement se trouve à proximité du Quartier latin, de la célèbre rue Mouffetard et de la Butte-aux-Cailles. Une connexion Wi-Fi est disponible gratuitement.
 
-La place des Vosges, avec ses galeries d’art indépendantes, et les boutiques de mode du quartier du Marais se trouvent à 15 minutes à pied. La station de métro Bastille, accessible à 150 mètres de l’hôtel, vous permettra de rejoindre directement de nombreux sites touristiques parisiens, notamment le Musée du Louvre et les Galeries Lafayette.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-7,ibis Paris Bastille Faubourg St Antoine,https://www.booking.com/hotel/fr/bastille-faubourg-st-antoine.fr.html,3.0,8.2,48.85173016,2.37873316,"L'ibis Paris Bastille Faubourg St Antoine vous accueille dans le 11ème arrondissement de Paris, à 900 mètres de la place de la Bastille. Il dispose d'une terrasse, d'un jardin et d'une connexion Wi-Fi gratuite.
+Les chambres climatisées du Paris Italie sont toutes pourvues d’une télévision à écran plat et d’une salle de bains privative.
 
-Chaque chambre climatisée est décorée dans un style contemporain. Elles comprennent une télévision par satellite à écran plat et une salle de bains privative. Il est permis de fumer dans certaines chambres situées au même étage.
+Doté d'une réception ouverte 24h/24, l’établissement est situé à côté du centre commercial Italie Deux.
 
-Un petit-déjeuner buffet, composé de plats sucrés et salés, comme des œufs, de la salade de fruits, des yaourts et des jus, est servi chaque matin. Des viennoiseries cuites sur place, des madeleines fraîches ainsi qu'une boisson chaude et un fruit à emporter sont aussi proposés. Un petit-déjeuner plus léger est servi à partir de 4h00.
+L’emplacement central du Paris Italie vous permettra de rejoindre facilement toutes les destinations touristiques prisées de la ville, que ce soit à pied ou en transports en commun. Vous pourrez notamment emprunter le métro à la station Place d’Italie, située à 120 mètres de l’établissement. Le palais omnisports AccorHotels Arena se trouve à 1,9 km.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+8,Hotel de l'Aqueduc,https://www.booking.com/hotel/fr/aqueduc.fr.html,11,7.2,48.88137821,2.36191906,"L'Hotel de l'Aqueduc est situé dans le centre-ville de Paris, à côté de la Gare du Nord. Il dispose d'une réception ouverte 24h/24 et de chambres avec ascenseur, télévision par satellite et connexion Wi-Fi gratuite.
 
-L'établissement possède par ailleurs une réception ouverte 24h/24. Chaque chambre est desservie par un ascenseur.
+L'hôtel propose un petit-déjeuner buffet et la réception fournit des journaux quotidiens.
 
-Un parking privé couvert est disponible. L'hôtel se trouve à 290 mètres de la station de métro Ledru-Rollin (sortie nº 2), permettant d'accéder à tous les sites d'intérêt prisés de Paris, notamment le musée du Louvre, l'avenue des Champs-Elysées, le quartier des affaires de la Défense et le quartier du Marais. Vous rejoindrez l'AccorHotels Arena et la Seine en moins de 20 minutes à pied. La gare de Lyon et celle de Paris-Bercy se trouve à respectivement 1 et 2 km.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-8,Hotel Ariane Montparnasse by Patrick Hayat,https://www.booking.com/hotel/fr/ariane-montparnasse.fr.html,12.0,8.0,48.83209732,2.32182875,"Situé à Paris, dans le quartier Montparnasse, à 5 minutes à pied de la station de métro Pernety, l'Hotel Ariane Montparnasse by Patrick Hayat propose des chambres dotées d’une salle de bains privative et d’une connexion Wi-Fi gratuite. L’établissement est installé à 1 km de la gare Montparnasse.
+La Gare du Nord et Gare de l'Est sont situées à côté de l'hôtel. Elle permettent de traverser Paris et ses environs en métro, en RER et donnent accès à l'Eurostar.
 
-Affichant une décoration colorée, les chambres de l'Hotel Ariane Montparnasse comportent une télévision par satellite à écran plat, un téléphone et un ventilateur. Les salles de bains privatives modernes sont pourvues d'articles de toilette gratuits et d'un sèche-cheveux.
+Le Canal Saint-Martin est à seulement 400 mètres et Montmartre à 1 km. Vous pourrez prendre le RER direct pour rejoindre le Parc des Expositions de Villepinte en 30 minutes.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+9,Hôtel Dalila,https://www.booking.com/hotel/fr/hoteldalila.fr.html,8,8.0,48.89657408,2.34364791,"Situated in the popular area of Montmartre, Hôtel Dalila offers accommodation with free guaranteed high-speed WiFi and view over Montmartre, a 17-minute walk from the Sacré-Coeur Basilica. You will find a 24-hour front desk at the property.
 
-L’hôtel sert un petit-déjeuner buffet est servi chaque matin dans la salle prévue à cet effet. Cette dernière présente des photos des attractions touristiques de Paris. Le petit-déjeuner peut également être servi en chambre sur demande.
+ Each air-conditioned and soundproofed room features a telephone and a flat-screen TV with satellite channels.
 
-La réception de l'Ariane Montparnasse est ouverte 24h/24. Vous pourrez profiter de canapés dans l'hôtel.
+An American breakfast is available daily. Several bars and restaurants can be reached within a walking distance.
 
-L'hôtel est implanté à 15 minutes en métro des Champs-Elysées. Le parc Georges Brassens se trouve à 20 minutes à pied.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-9,Appart'City Classic Paris La Villette,https://www.booking.com/hotel/fr/appart-city-cap-affaires-paris.fr.html,9.0,7.4,48.88716261,2.38640249,"L'Appart'City Classic Paris La Villette est situé à 5 minutes à pied de la Cité des sciences de La Villette et à 10 minutes de marche du Zénith.
+while Opéra Garnier is 2.9 km from the property. The nearest metro is Jules Joffrin, which is only 2 minutes' walk from the hotel and gives direct access to St. Michel, and Jules Joffrin metro station is 500 metres away. Gare du Nord Train station is a 12-minute metro ride away and guests can reach the Stade de France directly via the nearby RER train line. Charles de Gaulle Airport is 22 km away. Les Docks de Paris Event Venue is 2.3 km away.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+10,Hotel Chabrol Opera,https://www.booking.com/hotel/fr/chabrol-opera.fr.html,9,7.5,48.87718928,2.35111378,"Situé à 450 mètres de la gare du Nord et à 550 mètres de la gare de l'Est, l'Hotel Chabrol Opera se trouve à 1,5 km de la basilique du Sacré-Cœur et du quartier Montmartre. Il propose des chambres avec une salle de bains privative et une connexion Wi-Fi gratuite.
 
-Tous les appartements bien équipés disposent d'un salon, d'un bureau et d'une télévision par satellite. Ils comprennent une salle de bains, ainsi qu'une cuisine entièrement équipée munie d'un réfrigérateur, de plaques de cuisson et d'un micro-ondes.
+Toutes les chambres sont équipées d'une télévision par satellite à écran plat et d'un téléphone. Leur salle de bains est pourvue d'une baignoire ou d'une douche.
 
-Le petit-déjeuner se compose d'une variété de pains incluant du pain sans gluten, de viennoiseries, de salades de fruits, de fruits frais, de fromages, de yaourts, ainsi que de boissons chaudes et froides.
+Chaque matin, vous dégusterez un petit-déjeuner buffet. Sur demande, vous pourrez également le prendre en chambre. De plus, vous disposerez d'un distributeur automatique sur place.
 
-L'Appart'City Classic Paris La Villette est installé en face la station de métro Ourcq, permettant de se rendre directement aux gares du Nord, de l'Est et d'Austerlitz. Vous pourrez ainsi rejoindre facilement les principaux lieux d'intérêt de Paris, tels que le Louvre, Montmartre et la tour Eiffel. La salle de réception Les Docks de Paris est quant à elle accessible à 3,3 km.
+Enfin, depuis la station de métro Poissonnière à 160 mètres, vous bénéficierez d'un accès direct à l'Opéra et au musée du Louvre. Le cabaret Moulin-Rouge est quant à lui accessible à 1,8 km de l'Hotel Chabrol Opera.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+11,Denfert-Montparnasse,https://www.booking.com/hotel/fr/denfert-montparnasse.fr.html,10,7.3,48.83531284,2.32607804,"Installé à Paris, le Denfert-Montparnasse se trouve à 1 km de la tour Montparnasse et de la gare Paris-Montparnasse. Cet établissement 2 étoiles dispose d'un bar-restaurant sur place.
 
-Enfin, lors de votre séjour à l'Appart'City Classic Paris La Villette, vous disposerez d'un parking privé sur place moyennant des frais supplémentaires.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-10,Port Royal Hotel,https://www.booking.com/hotel/fr/port-royal-paris1.fr.html,8.0,7.4,48.837169,2.350575,"Situé à Paris, à 2,5 km de Paris-Gare-de-Lyon et de la Sainte-Chapelle, le Port Royal Hotel propose une connexion Wi-Fi gratuite dans l’ensemble de ses locaux. Il vous accueille à 2,7 km de la cathédrale Notre-Dame, à 3,4 km de l’opéra Bastille et à 3,7 km du centre Pompidou. L’établissement se trouve à 1,7 km du jardin du Luxembourg et à moins de 2,8 km du centre-ville.
+Toutes les chambres insonorisées sont munies d'une salle de bains privative avec une baignoire ou une douche, d'une télévision à écran plat et d'une connexion Wi-Fi gratuite.
 
-Les chambres sont dotées d’un bureau. Le linge de lit et les serviettes de toilette sont fournis dans toutes les chambres du Port Royal Hotel.
+Chaque matin, vous pourrez déguster un petit-déjeuner servi dans la salle à manger, dans le patio ou, sur demande, dans l'intimité de votre hébergement.
 
-Le personnel de la réception ouverte 24h/24 parle français et anglais. Il se fera un plaisir de vous aider à tout moment.
+L'établissement comprend un patio calme et ombragé, une réception ouverte 24h/24 et une bagagerie.
 
-Le musée Rodin est accessible à 3,8 km. Vous rejoindrez le musée d’Orsay à 3,9 km. L’aéroport de Paris-Orly, le plus proche, est implanté à 13 km du Port Royal Hotel.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-11,Hotel De La Poste,https://www.booking.com/hotel/fr/de-la-poste-paris.fr.html,10.0,6.1,48.89011611,2.361008,"L'Hotel De La Poste est situé dans le 18ème arrondissement de Paris, à 1 km du quartier animé de Montmartre et à 1,2 km de la gare du Nord. Il propose une réception ouverte 24h/24.
+La station de métro Denfert-Rochereau, sur les lignes 4 et 6, est à 5 minutes de marche.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+12,Grand Hôtel Des Gobelins,https://www.booking.com/hotel/fr/grand-des-gobelins.fr.html,12,8.2,48.83786745,2.35570773,"Situé à proximité du Quartier Latin, célèbre pour sa vie étudiante animée, le Grand Hôtel Des Gobelins propose un hébergement confortable dans l’un des quartiers les plus vivants de Paris.
 
-Les chambres sont dotées d'une décoration colorée et d'un bureau. Certaines comprennent une télévision à écran plat. Quelques-unes sont pourvues d'une salle de bains privative avec une douche et plusieurs donnent accès à une salle de bains commune.
+Le Grand Hôtel Des Gobelins dispose de 45 chambres confortables, entièrement rénovées et décorées avec soin, ainsi que d’une salle de séminaire totalement équipée près du Jardin des Plantes et du Panthéon.
 
-L'hôtel se trouve à 1,3 km de la basilique du Sacré-Cœur et à 1,6 km de la gare de l'Est. La station de métro Marx Dormoy, installée à 100 mètres, offre un accès direct au quartier de Pigalle. La salle de réception Les Docks de Paris est à 2,3 km.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-12,ibis Styles Paris Bercy,https://www.booking.com/hotel/fr/mercure-paris-bercy.fr.html,14.0,7.5,48.83841913,2.3810935,"Situé en face de l'Accor Arena, à 200 mètres de la station de métro Bercy et à 500 mètres de la gare de Lyon, l'ibis Styles Paris Bercy propose une connexion Wi-Fi gratuite.
+Entouré de nombreux restaurants et cinémas, à proximité de différents moyens de transports en commun, l’hôtel bénéficie d’un emplacement idéal pour découvrir Paris et ses attractions.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+13,Tipi,https://www.booking.com/hotel/fr/tipi.fr.html,14,7.1,48.83548585,2.32537396,"Situé dans le centre de Paris, cet hôtel est installé à 750 mètres de la gare Montparnasse. Il dispose d'une réception ouverte 24h/24, d'une terrasse fleurie et de chambres avec connexion Wi-Fi gratuite.
 
-Les chambres insonorisées de l'ibis Styles Paris Bercy disposent de la climatisation, d'une télévision par satellite à écran plat et d'une salle de bains privative.
+Chaque chambre est équipée d'une télévision à écran plat et d'un bureau. Les salles de bains privatives sont équipées d'un sèche-cheveux.
 
-Chaque matin, vous pourrez déguster un petit-déjeuner buffet continental sur place.
+Un petit-déjeuner buffet est proposé chaque matin dans la salle à manger élégante de l'hôtel Tipi. Après le petit-déjeuner, vous pourrez visiter le marché, qui est situé dans la même rue que l'hôtel.
 
-Vous pourrez prendre un verre au bar.
+Le jardin du Luxembourg est à 1,4 km de l'hôtel Tipi. La station de métro Gaîté est située à 550 mètres ; elle permet de rejoindre les Champs-Élysées. Un parking public est disponible à proximité.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+14,GREEN PARK HOTEL PARIS,https://www.booking.com/hotel/fr/green-park-paris.fr.html,13,8.9,48.87833476,2.38422876,"Featuring a bar, GREEN PARK HOTEL PARIS is located in Paris in the Ile de France region, 3.3 km from Gare de l'Est and 3.6 km from Gare du Nord. This 3-star hotel offers room service and a 24-hour front desk. Private parking can be arranged at an extra charge.
 
-L'ibis Styles Paris Bercy se trouve dans le parc de Bercy, à seulement 5 minutes à pied de la Seine et du centre commercial Bercy Village. La place de la Bastille est accessible en 25 minutes de marche.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-13,Hôtel France Eiffel,https://www.booking.com/hotel/fr/france-eiffel.fr.html,13.0,6.7,48.85154449,2.28971601,"Situé à 10 minutes à pied de la Tour Eiffel et à 350 mètres de la station de métro Dupleix, le France Eiffel propose un jardin privé et des chambres avec salle de bains privative et connexion Wi-Fi disponible dans les parties communes (salon, salle de petit-déjeuner et réception).
+At the hotel, rooms include a wardrobe. Featuring a private bathroom with a shower and a hairdryer, rooms at GREEN PARK HOTEL PARIS also provide guests with free WiFi, while selected rooms include a city view. At the accommodation, every room is equipped with a flat-screen TV and a safety deposit box.
 
-Toutes les chambres du France Eiffel sont décorées de façon individuelle et disposent d'une télévision par satellite à écran LCD, d'une terrasse privé et d'un plateau/bouilloire.
+The daily breakfast offers continental, Full English/Irish or Asian options.
 
-Le petit-déjeuner est servi sur la terrasse en été et peut également être dégusté dans les chambres d'hôtes. Le salon de l'hôtel est décoré avec des meubles asiatiques. Des journaux quotidiens sont fournis à la réception ouverte 24h/24.
+La Cigale Concert Hall is 4.2 km from GREEN PARK HOTEL PARIS, while Pompidou Centre is 4.3 km away. The nearest airport is Paris - Charles de Gaulle Airport, 17 km from the hotel.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+15,Kyriad Hotel XIII Italie Gobelins,https://www.booking.com/hotel/fr/hotelkyriaditaliegobelins.fr.html,15,7.9,48.83379537,2.35496745,"Le Kyriad Hotel XIII Italie Gobelins est situé dans le 13ème arrondissement de Paris. Il propose des chambres avec salle de bains privative dotées d'une connexion Wi-Fi à 100 mètres de la station de métro Les Gobelins.
 
-La station de RER Champs de Mars est à 450 mètres et mène directement au Château de Versailles. Les stations de métro locales donnent un accès direct à l'Arc de Triomphe, à l'Université de la Sorbonne et à l'Odéon.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-14,Hotel De La Cite Rougemont,https://www.booking.com/hotel/fr/de-la-cite-rougemont.fr.html,15.0,8.1,48.87209209,2.3452886,"Situé dans le 9ème arrondissement populaire de Paris, l'Hotel De La Cite Rougemont vous accueille à 3 minutes à pied du théâtre des Folies Bergère et du musée Grevin (personnalités réalisées en cire). Une connexion Wi-Fi gratuite est accessible dans toutes les locaux.
+Les chambres de l'hôtel Kyriad disposent d'une télévision par satellite à écran plat, d'un coffre-fort et d'un plateau/bouilloire. Elles possèdent toutes une salle de bains privative avec baignoire ou douche et certaines sont dotées d'un balcon.
 
-Dotées d'une télévision par satellite à écran plat, les chambres sont équipées d'une salle de bains privative avec un sèche-cheveux et des articles de toilette gratuits.
+Des croissants fraîchement sortis du four sont servis tous les matins au petit-déjeuner buffet de l'hôtel. Un distributeur de boissons est également disponible à côté de la réception, ouverte 24h/24. Vous bénéficierez également d'un service de commande de journaux.
 
-La réception est ouverte 24h/24. Un espace de stationnement public se trouve à proximité.
+Le Kyriad Hotel XIII Italie Gobelins se trouve à 10 minutes à pied du jardin des plantes. La station de métro à proximité vous permettra d'accéder directement aux sites touristiques de Paris, dont le musée du Louvre, l'Opéra et Châtelet, le centre-ville. L'AccorHotels Arena est situé à 2 km.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+16,Hotel Mirabeau Eiffel,https://www.booking.com/hotel/fr/mirabeau-eiffel.fr.html,16,7.1,48.84405703,2.27965744,"L'Hôtel Mirabeau Eiffel est situé dans le 15ème arrondissement de Paris. Il propose des hébergements contemporains et une réception ouverte 24h/24. Vous pourrez vous détendre sur la terrasse de l'hôtel. La station de métro Javel (ligne 10) est à 350 mètres et permet d'accéder directement au stade Roland Garros.
 
-La station de métro Grands Boulevards, la plus proche, donne un accès direct aux Champs-Elysées et à l'Opéra Garnier, tandis que le musée du Louvre se trouve à 1,5 km de l'hôtel. Enfin, l'aéroport d'Orly, le plus proche, est implanté à 16 km de l'hébergement.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-15,Westside Arc de Triomphe Hotel,https://www.booking.com/hotel/fr/westside-arc-de-triomphe.fr.html,11.0,8.3,48.88129894,2.29480304,"Doté d’un bar-salon, le Westside Arc de Triomphe Hotel propose des hébergements dans une petite rue de l’élégant 17ème arrondissement de Paris, à 12 minutes de marche de l’Arc de Triomphe et de la célèbre avenue des Champs-Élysées. Une connexion Wi-Fi est disponible gratuitement.
+Les chambres de l'Hotel Mirabeau Eiffel sont dotées d'un bureau, d'un canapé ainsi que d'une salle de bains privative avec sèche-cheveux et douche. L'établissement dispose également de chambres adaptées aux personnes à mobilité réduite.
 
-Toutes les chambres sont climatisées et disposent d’une télévision par satellite à écran LED disponible gratuitement. Certaines offrent une vue sur le 17ème arrondissement ou les toits de Paris. Un plateau de courtoisie est fourni.
+Une connexion Wi-Fi gratuite est accessible dans l'ensemble de l'hôtel et la tour Eiffel se trouve à 30 minutes à pied. Le Mirabeau Eiffel se situe à 500 mètres du parc André-Citroën, tandis que la gare RER de Javel (ligne C) est à seulement 350 mètres. La station de métro Boucicaut (ligne 8), à seulement 750 mètres, donne accès au parc des expositions de la porte de Versailles.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+17,Hôtel Résidence A la Buttes aux Cailles,https://www.booking.com/hotel/fr/residence-a-la-butte-aux-cailles.fr.html,17,8.9,48.8286706,2.3507594,"Offrant une vue sur la ville, l'Hôtel Résidence A la Buttes aux Cailles est situé à Paris, à 2,5 km du jardin du Luxembourg et à 3 km de Paris-Gare-de-Lyon. Cet appart'hôtel 2 étoiles assure un service de sécurité toute la journée ainsi que l'enregistrement et le départ privés. Il propose une connexion Wi-Fi gratuite dans l'ensemble de ses locaux, une terrasse et un restaurant traditionnel.
 
-Le petit-déjeuner peut être servi en chambre ou sous forme de buffet. Vous pourrez également prendre un verre au bar ou passer commande via le service d'étage tout au long de la journée.
+Revêtus de parquet, les logements comprennent un coin repas, une télévision à écran plat ainsi qu'une salle de bains privative pourvue d'une douche et d'un sèche-cheveux. Un grille-pain, un réfrigérateur, des plaques de cuisson, une machine à café et une bouilloire sont également fournis. Le linge de lit et les serviettes de toilette sont fournis.
 
-Un service de concierge et un bureau d’excursions sont à votre disposition pour organiser vos visites et excursions. La station de métro Pereire, située à 500 mètres, vous permettra de rejoindre directement le musée du Louvre. Le Westside Arc de Triomphe Hotel est à 1 km du palais des congrès de Paris. Vous trouverez un parking public à proximité.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-16,Hôtel Magellan,https://www.booking.com/hotel/fr/ha-tel-magellan.fr.html,16.0,8.7,48.88342348,2.29252651,"Situé à 15 minutes à pied de l'Arc de triomphe et du parc Monceau, l'Hôtel Magellan possède un bar-salon ainsi qu'un jardin. La réception est ouverte 24h/24 et vous disposerez d'une connexion Wi-Fi gratuite dans tout l'établissement.
+Vous trouverez des restaurants à proximité de l'appart'hôtel.
 
-Les chambres sont dotées d'une télévision par satellite à écran plat ainsi que d'un plateau/bouilloire. Leur salle de bains privative comprend des articles de toilette gratuits et un sèche-cheveux.
+Vous séjournerez à 3,4 km de la Sainte-Chapelle et de la cathédrale Notre-Dame. L'aéroport de Paris-Orly, le plus proche, est à 12 km.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+18,Hôtel Gaston,https://www.booking.com/hotel/fr/hotelgaston.fr.html,18,8.1,48.88749849,2.30790541,"Installé dans le 17e arrondissement de Paris, l’Hôtel Gaston a été décoré dans un style contemporain par Anne Lise Dees, ancienne collaboratrice de Philippe Stark. L’établissement se trouve à 2 km de l’avenue des Champs-Élysées et à 2,5 km du quartier des grands magasins. Une connexion Wi-Fi haut débit est disponible gratuitement.
 
-Chaque matin, un petit-déjeuner buffet est servi. Dans la soirée, vous pourrez vous détendre dans le bar-salon ou sur la terrasse lorsque le temps le permet.
+Les chambres modernes et insonorisées disposent de la climatisation, d’une télévision et offrent une vue dégagée sur les environs. Tous les hébergements possèdent un coffre-fort et une salle de bains privative avec un sèche-cheveux. Toutes les chambres sont desservies par un ascenseur.
 
-Par ailleurs, l'hôtel est situé à 350 mètres de la station de métro Porte de Champerret, qui assure un accès direct à l'opéra Garnier et au quartier du Marais. Le quartier d'affaires de la Défense se trouve à 10 minutes de route tandis que le Palais des Congrès est accessible en 13 minutes à pied.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-17,Motel One Paris-Porte Dorée,https://www.booking.com/hotel/fr/motel-one-paris-porte-doree.fr.html,17.0,8.7,48.834942,2.410246,"Situé à Paris, dans le 12ème arrondissement, le Motel One Paris-Porte Dorée dispose d'un bar et d'un jardin. Vous serez à 6 minutes à pied de la station de métro Porte Dorée, à 4 km de l'opéra Bastille et à 6 km de la cathédrale Notre-Dame.
+Un petit-déjeuner buffet ou express est proposé tous les matins dans le hall convivial. Un service d'étage est également disponible. Des services de nettoyage à sec, de fax et de photocopie sont disponibles à la réception ouverte 24h/24. Le hall et les couloirs de l’hôtel ont été décorés par le collectif d’artistes Splendens Factory avec des photos, des graffitis et des anamorphoses.
 
-Les chambres climatisées comportent un bureau et une télévision à écran plat. La salle de bains privative est pourvue d'une douche, d'un sèche-cheveux et d'articles de toilette gratuits. Tous les logements sont desservis par un ascenseur, et une connexion Wi-Fi est disponible gratuitement.
+L’hôtel est à 10 minutes de marche de la station de métro Wagram, d’où vous pourrez rejoindre directement l’Opéra et les Galeries Lafayette. L’hôtel propose également un service de navette aéroport, moyennant des frais supplémentaires.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+19,Hotel Meslay Republique,https://www.booking.com/hotel/fr/meslay-republique.fr.html,19,8.1,48.86730056,2.3622397,"Doté d'une connexion Wi-Fi gratuite dans tout l'établissement, l'Hotel Meslay Republique se situe à Paris, à 100 mètres de la place de la République.
 
-Le matin, vous pourrez déguster un petit-déjuner buffet composé de produits bio et issus du commerce équitable.
+Toutes les chambres comportent une télévision par satellite à écran plat. Leur salle de bains est pourvue d'articles de toilette gratuits et d'un sèche-cheveux.
 
-L’établissement possède une réception ouverte 24h/24 et une bagagerie.
+La réception de l'établissement est ouverte 24h/24.
 
-Le Motel One Paris-Porte Dorée se trouve à 6 km du musée du Louvre et du Centre Pompidou, ainsi qu'à 5,4 km de la place de la République. Enfin, vous rejoindrez l'aéroport de Paris-Orly à 12 km.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-18,Tiny Suite 12 D Paris’s heart!,https://www.booking.com/hotel/fr/tiny-suite-12-d-pariss-heart.fr.html,18.0,7.5,48.8808901,2.3626402,"Situé dans le centre de Paris, à seulement 10 minutes de marche de la gare du Nord, l'ibis Paris Gare du Nord Château Landon 10ème comporte un bar et une réception ouverte 24h/24. Vous profiterez d’une connexion Wi-Fi gratuite dans tous les locaux et d’un parking souterrain privé.
+L'Hotel Meslay République se trouve à 1,5 km du centre Pompidou et à moins de 2 km de la cathédrale Notre-Dame. L'aéroport d'Orly est implanté à 20 km.",Paris,48.8588897,2.3200410217200766,21.03,4.8
+20,Arthur Residency - Luxury Apartment - Gare Le Havre,https://www.booking.com/hotel/fr/arthur-residency-luxury-apartment-gare-le-havre.fr.html,2,7.9,49.4983625,0.1301614,"Arthur Residency - Luxury Apartment - Gare Le Havre is situated in Le Havre, 2.5 km from Le Volcan, 1.5 km from Saint-Michel's Church, and 2.9 km from Perret Model Appartment. The property is around 3.2 km from Eglise St-Joseph, 23 km from Norman Museum of Ethnography and Popular Arts and 23 km from Honfleur's Old Harbour. The accommodation features a 24-hour front desk and free WiFi is available throughout the property.
 
-Agrémentées de parquet, les chambres possèdent la climatisation, une télévision par satellite à écran plat, une armoire et un bureau. Leur salle de bains privative est pourvue d'un sèche-cheveux.
+The accommodation comes with a fully equipped kitchen with a fridge and kettle, a flat-screen TV and a private bathroom with shower. The units are equipped with heating facilities.
 
-Tous les matins, l'établissement vous préparera un petit-déjeuner buffet composé de plats sucrés et salés, tels que des œufs, de la salade de fruits, des yaourts et des jus de fruits. Des viennoiseries cuites sur place et des madeleines françaises fraîches sont aussi proposées, ainsi qu'une boisson chaude et un fruit à emporter. En dehors des heures régulières, un petit-déjeuner plus léger est servi à partir de 4h00.
+Guests at the aparthotel can enjoy a continental breakfast.
 
-Une bagagerie en libre-service est disponible, moyennant des frais supplémentaires. Vous séjournerez à 10 minutes à pied de la gare du Nord, permettant de rejoindre directement l’aéroport de Paris-Charles-de-Gaulle et le centre de Paris. Le quartier de Montmartre n'est qu'à 20 minutes de marche.",Paris,48.8588897,2.3200410217200766,14.8,10.3
-19,ibis Paris Gare du Nord Château Landon 10ème,https://www.booking.com/hotel/fr/ibis-gare-du-nord-chateau-landon.fr.html,,,,,,Paris,48.8588897,2.3200410217200766,14.8,10.3
+La Forge Museum is 23 km from Arthur Residency - Luxury Apartment - Gare Le Havre, while Trouville-Deauville SNCF Railway Station is 39 km from the property. The nearest airport is Le Havre Octeville Airport, 6 km from the accommodation.",Le Havre,49.4938975,0.1079732,18.35,16.95
+21,"The Originals Boutique, Hôtel d'Angleterre, Le Havre, centre, plage",https://www.booking.com/hotel/fr/comfort-d-angleterre.fr.html,7,7.6,49.49404915,0.09936646,"Le Boutique Hotel d’Angleterre Le Havre se trouve dans le centre-ville du Havre, à seulement 100 mètres de la mer, à côté du musée Malraux. Vous profiterez d’une connexion Wi-Fi gratuite dans l’ensemble des locaux.
+
+Les chambres du The Originals Boutique, Hôtel d'Angleterre, Le Havre, centre, plage disposent d'une télévision par satellite à écran plat et d'une salle de bains privative. Un petit-déjeuner buffet vous sera servi chaque matin.
+
+Vous pourrez vous garer en face de l'hôtel. Le stationnement est gratuit la nuit, le dimanche et les jours fériés.
+
+Le The Originals Boutique, Hôtel d'Angleterre, Le Havre, centre, plage est installé à 30 minutes de route de Honfleur et d'Étretat. Deauville et Trouville sont accessibles à 40 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+22,Holiday Inn Express - Le Havre Centre,https://www.booking.com/hotel/fr/campanile-le-havre-centre.fr.html,0,8.4,49.498238,0.128837,"L’Holiday Inn Express - Le Havre Centre, situé dans le centre-ville du Havre et à 600 mètres de la gare SNCF, vous accueille pour un séjour professionnel et de loisirs. Il bénéficie d’une situation idéale pour rejoindre rapidement le centre-ville ou la plage par le tramway, accessible devant l'hôtel. Vous apprécierez la qualité des prestations : connexion Wi-Fi, collations, petit-déjeuner buffet et bar-salon. Afin de faciliter votre arrivée en voiture, vous pourrez profiter du parking privé de l’établissement.
+. Réservez l’une des grandes chambres confortables de l’hôtel pour profiter de votre séjour.",Le Havre,49.4938975,0.1079732,18.35,16.95
+23,LES APPARTS KENNEDY,https://www.booking.com/hotel/fr/les-apparts-kennedy.fr.html,4,8.5,49.48471326,0.10383903,"L'établissement LES APPARTS KENNEDY est situé en bord de mer au Havre, à 1,5 km de la plage et à moins de 1 km du Volcan. Il est situé à 600 mètres de l'église Saint-Joseph et bénéficie d'une sécurité d'une journée. Offrant une vue sur la mer, il dispose d'une terrasse bien exposée et d'une connexion Wi-Fi gratuite.
+
+Revêtus de parquet, les logements comprennent un coin repas, une télévision à écran plat avec des services de streaming ainsi qu'une salle de bains privative pourvue d'une douche et d'un sèche-cheveux. Un grille-pain, un réfrigérateur, des ustensiles de cuisine, une machine à café et une bouilloire sont également fournis. Le linge de lit et les serviettes sont fournis.
+
+Des équipements de jeux en plein air sont également disponibles.
+
+Vous séjournerez à 1,1 km de l'appartement témoin Perret et à 1,7 km de l'église Saint-Michel. L'aéroport le plus proche, celui du Havre-Octeville, est situé à 6 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+24,Ibis Budget Le Havre Les Docks,https://www.booking.com/hotel/fr/ibis-budget-le-havre-centre.fr.html,6,8.2,49.49424468,0.14285243,"L'Ibis Budget Le Havre Les Docks est situé au Havre, à 4,4 km de la salle de spectacles Le Volcan. Il met gratuitement à votre disposition une connexion Wi-Fi dans l'ensemble de ses locaux et un parking privé sur place.
+
+Les chambres comprennent la climatisation, une télévision, un bureau ainsi qu'une salle de bains privative avec douche, articles de toilette gratuits et toilettes séparées.
+
+Un petit-déjeuner buffet vous sera servi tous les jours sur place. Dans les environs, vous trouverez également des restaurants.
+
+L'Appartement témoin Perret se trouve à 4,4 km de l'Ibis Budget Le Havre Les Docks, tandis que l'église Saint-Michel est à 5 km. En voiture, vous rejoindrez Honfleur en 20 minutes et Étretat en 30 minutes.",Le Havre,49.4938975,0.1079732,18.35,16.95
+25,"Le Havre, 1 chambre , appartement Sympa en centre ville",https://www.booking.com/hotel/fr/le-havre-superbe-appartement-centre-ville.fr.html,1,7.6,49.4923869,0.1141751,"Récemment rénové, l'établissement Le Havre, 1 chambre, appartement Sympa en centre ville est situé au Havre, à proximité de la plage du Havre, de l'église Saint-Michel et du Volcan. Occupant un bâtiment datant de 1960, cet appartement se trouve à 1,3 km de l'église Saint-Joseph et à 24 km du musée d'ethnographie et d'art populaire normand. Cet établissement non-fumeurs se trouve à 500 mètres de l'appartement témoin Perret.
+
+Cet appartement de 2 chambres dispose d'un salon avec une télévision par satellite à écran plat, d'une cuisine entièrement équipée avec un lave-vaisselle et un four, ainsi que d'une salle de bains avec une douche à l'italienne. Les serviettes et le linge de lit sont fournis.
+
+Le vieux port de Honfleur et le musée La Forge se trouvent à 24 km. L'aéroport le plus proche, celui de Deauville-Normandie, est situé à 37 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+26,All Suites Appart Hotel Le Havre,https://www.booking.com/hotel/fr/all-suites-appart-le-havre.fr.html,3,8.5,49.488691,0.125929,"Situé au Havre, en Haute-Normandie, à proximité de l'appartement témoin Le Volcan et Perret, l'All Suites Appart Hotel Le Havre propose des hébergements avec accès à une salle de sport. Cet appart'hôtel 3 étoiles dispose d'un ascenseur et d'une sécurité toute la journée. Cet appart'hôtel possède une terrasse bien exposée et une réception ouverte 24h/24. Une connexion Wi-Fi est accessible gratuitement dans l'ensemble de ses locaux.
+
+Cet appart'hôtel est équipé d'une télévision par câble à écran plat, d'une cuisine, d'un coin repas, d'un coffre-fort ainsi que d'une salle de bains privative avec douche à l'italienne et sèche-cheveux. Tous les logements sont insonorisés. Le linge de lit et les serviettes de toilette sont fournis.
+
+Cet appart'hôtel sert un petit-déjeuner buffet ou continental. Vous trouverez un café, un bar et un salon.
+
+Vous pourrez jouer au billard sur place.
+
+Vous séjournerez à 2,8 km de la plage du Havre et à 2 km de l'église Saint-Michel. L'aéroport le plus proche, celui du Havre-Octeville, est situé à 7 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+27,Birgit Hôtel Le Havre Centre,https://www.booking.com/hotel/fr/kyriadlehavrecentre.fr.html,5,8.3,49.49308921,0.13096154,"Bienvenue à Birgit !
+
+Pour visiter Le Havre, rien de mieux que de séjourner dans cet hôtel de 86 chambres entièrement rénové en 2022. Profitez de l'ambiance conviviale entourée d'objets anciens et de souvenirs de voyage.
+
+Situé à proximité du centre-ville, de la gare et des transports en commun, vous pourrez rejoindre la plage et l'esplanade du Havre en 10 minutes.
+
+Séjournez dans des chambres confortables et design, adaptées aux couples, aux familles, aux amis et aux voyageurs d'affaires.
+Savourez le petit déjeuner concocté avec amour à partir de produits sains et locaux. Prenez le temps de déguster une des boissons locales dans le bar.
+
+L'hôtel B!rgit Le Havre est la base idéale pour vos déplacements en famille ou entre amis et sera parfait pour une pause lors d'un déplacement professionnel.",Le Havre,49.4938975,0.1079732,18.35,16.95
+28,ibis Le Havre Centre,https://www.booking.com/hotel/fr/hotelibislehavre.fr.html,9,8.1,49.49164142,0.11876017,"L'ibis Le Havre Centre est situé dans le centre-ville du Havre, à proximité de la gare SNCF, du port ferry et du centre du commerce international. Une connexion Wi-Fi gratuite est disponible.
+
+Les chambres disposent d'une salle de bains privative, d'une télévision par satellite et de matériel de repassage.
+
+Un petit-déjeuner buffet, composé de plats sucrés et salés, comme des œufs, de la salade de fruits, des yaourts et des jus, est servi chaque matin. Des viennoiseries cuites sur place, des madeleines fraîches ainsi qu'une boisson chaude et un fruit à emporter sont aussi proposés. Vous pourrez par ailleurs déguster un petit-déjeuner plus léger à partir de 4h00.
+
+Depuis l'ibis Le Havre Centre, vous rejoindrez facilement les autoroutes A29 et A131. Honfleur se trouve à 23 km, tandis que Deauville vous attend à 40 km. Enfin, vous pourrez profiter d'un espace de stationnement et d'une salle de réunion sur place.",Le Havre,49.4938975,0.1079732,18.35,16.95
+29,Vivez La vue mer - Studio - Port de plaisance - Plage,https://www.booking.com/hotel/fr/vivez-la-vue-mer-port-de-plaisance-plage.fr.html,11,9.4,49.48794455,0.09892914,"Offrant une vue sur la mer, le Vivez La vue mer - Studio - Port de plaisance - Plage est un hébergement situé au Havre, à moins de 1 km de la plage du Havre et à 6 minutes à pied de l'église Saint-Joseph. Il dispose d'un ascenseur, d'un service de sécurité d'une journée et d'une connexion Wi-Fi gratuite dans l'ensemble de ses locaux. Cet établissement non-fumeurs se trouve à 1 km du Volcan.
+
+Cet appartement récemment rénové comprend une chambre séparée, une salle de bains, une cuisine entièrement équipée avec un coin repas et un micro-ondes, ainsi qu'un salon avec une télévision à écran plat. Les serviettes et le linge de lit sont fournis. Vous pourrez vous changer dans le dressing de l'appartement.
+
+L'appartement dispose d'une aire de pique-nique où vous pourrez passer une journée en plein air.
+
+Vous séjournerez à 1,2 km de l'appartement témoin Perret et à 1,7 km de l'église Saint-Michel. L'aéroport de Deauville-Normandie, le plus proche, est à 38 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+30,Appartement charmant idéalement situé !,https://www.booking.com/hotel/fr/appartement-idealement-situe-le-havre1.fr.html,8,9.5,49.4885022,0.1089635,"A recently renovated property, Appartement charmant idéalement situé! is situated in Le Havre near Le Volcan, Eglise St-Joseph and Perret Model Appartment. The property has city views and is 1.1 km from Saint-Michel's Church and 24 km from Norman Museum of Ethnography and Popular Arts. Free WiFi is available throughout the property and Le Havre Beach is 1.5 km away.
+
+This apartment features 1 bedroom, a kitchen with an oven and a microwave, a flat-screen TV, a seating area and 1 bathroom fitted with a shower. Towels and bed linen are available in the apartment. The accommodation is non-smoking.
+
+Honfleur's Old Harbour is 24 km from the apartment, while La Forge Museum is 24 km from the property. The nearest airport is Le Havre Octeville Airport, 6 km from Appartement charmant idéalement situé!.",Le Havre,49.4938975,0.1079732,18.35,16.95
+31,F2 hypercentre - Proche gare - WIFI gratuite,https://www.booking.com/hotel/fr/f2-hypercentre-proche-gare-wifi-gratuite-le-havre4.fr.html,12,9.0,49.4943145,0.124113,"Le F2 hypercentre - Proche gare - WIFI gratuite est situé au Havre, à 2,5 km de la plage du Havre, à 1,7 km du Volcan et à 1,4 km de l'église Saint-Michel. Il se trouve à environ 1,5 km de l'appartement témoin Perret, à 2,4 km de l'église Saint-Joseph et à 23 km du musée d'ethnographie et d'art populaire normand. Vous séjournerez à 40 km du port Morny et du casino de Trouville.
+
+Cet établissement est non-fumeurs.
+
+Vous séjournerez à 23 km du vieux port de Honfleur et du musée La Forge. L'aéroport le plus proche, celui du Havre-Octeville, est situé à 7 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+32,L'île Enchantée - Typique - St François,https://www.booking.com/hotel/fr/ile-enchantee-typique-st-francois.fr.html,10,8.5,49.488167,0.11416,"Offrant une vue sur la ville, L'île Enchantée - Typique - St François est un hébergement situé au Havre, à 700 mètres du Volcan et à moins de 1 km de l'appartement témoin Perret. Il propose un service de concierge et une cheminée extérieure. Une connexion Wi-Fi est disponible gratuitement dans l'ensemble de l'établissement et la plage du Havre se trouve à 2 km.
+
+Cet appartement comprend une chambre, une cuisine entièrement équipée avec un four et un micro-ondes, ainsi qu'une salle de bains pourvue d'une douche, d'articles de toilette gratuits et d'un lave-linge. Les serviettes et le linge de lit sont fournis. Vous profiterez d'une cheminée.
+
+Vous séjournerez à 1,1 km de l'église Saint-Joseph et à 1,3 km de l'église Saint-Michel. L'aéroport le plus proche, celui du Havre-Octeville, est situé à 7 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+33,Résidence Baie de Seine,https://www.booking.com/hotel/fr/ra-c-sidence-st-marie.fr.html,14,8.5,49.50428331,0.13178498,"Située au Havre, à 10 minutes de route de la plage du Havre, la Résidence Baie de Seine propose des studios indépendants dotés d'une télévision à écran plat et d'une connexion Internet. La gare du Havre est implantée à 2,5 km.
+
+Chaque logement présente une décoration moderne et dispose d'une cuisine entièrement équipée avec un four, un réfrigérateur et des plaques de cuisson. Leur salle de bains privative est munie d'une douche.
+
+La résidence propose un parking gratuit sur place et un barbecue est disponible dans le jardin. Étretat et Honfleur sont à 25 km et l'aéroport du Havre-Octeville est implanté à 6 km de la Résidence Baie de Seine.",Le Havre,49.4938975,0.1079732,18.35,16.95
+34,Aparthotel Adagio Access Le Havre Les Docks,https://www.booking.com/hotel/fr/adagio-access-le-havre-les-docks.fr.html,15,8.4,49.48741929,0.13151121,"L'Aparthotel Adagio Access Le Havre Les Docks vous accueille au Havre, à 100 mètres du centre commercial Docks Vauban et à 3 km du centre-ville. Il propose des chambres et des appartements, dotés d'une connexion Wi-Fi gratuite et desservis par un ascenseur.
+
+Chaque hébergement inclut un bureau et une salle d'eau privative.
+
+Les logements sont tous équipés d'une cuisine avec micro-ondes et réfrigérateur. Le petit-déjeuner vous sera servi tous les jours dans le salon commun, et les enfants de 4 à 11 ans en bénéficieront à un tarif réduit. Vous trouverez également plusieurs bars et restaurants à 200 mètres de l'établissement.
+
+Pourvu d'un parking privé sur place, l'Aparthôtel Adagio Access Le Havre Les Docks est situé à 1,3 km de la gare du Havre.",Le Havre,49.4938975,0.1079732,18.35,16.95
+35,L'ESTUAIRE,https://www.booking.com/hotel/fr/estuaire-le-havre.fr.html,13,9.2,49.5015303,0.1137844,"Offrant une vue sur la mer, L'ESTUAIRE est un hébergement situé au Havre, à 2 km de la plage et à moins de 1 km de l'église Saint-Michel. Vous bénéficierez gratuitement d'une connexion Wi-Fi et d'un parking sur place. Vous séjournerez à 24 km du musée d'ethnographie et d'art populaire normand et du vieux port de Honfleur.
+
+Cet appartement comprend une chambre, une télévision à écran plat avec des services de streaming, un lave-linge et une salle de bains pourvue d'une douche. Sa cuisine entièrement équipée comporte un four et un micro-ondes. Les serviettes et le linge de lit sont fournis. Cet appartement est non-fumeurs et insonorisé.
+
+Vous pourrez pratiquer diverses activités au Havre et dans les environs, telles que la randonnée.
+
+Vous séjournerez à proximité de l'appartement témoin Perret, du Volcan et de l'église Saint-Joseph. L'aéroport de Deauville-Normandie, le plus proche, est implanté à 38 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+36,Smart Appart Le Havre 105,https://www.booking.com/hotel/fr/smart-appart-le-havre-105.fr.html,16,8.4,49.4968623,0.1270729,"Le Smart Appart Le Havre 105 est situé au Havre, à 2,7 km de la plage, à 2 km du Volcan et à 1,6 km de l'église Saint-Michel. Il dispose d'un ascenseur, d'un service de sécurité d'une journée et d'une connexion Wi-Fi gratuite dans l'ensemble de ses locaux. Cet appart'hôtel propose des chambres familiales et des équipements pour les personnes à mobilité réduite.
+
+Les logements comprennent la climatisation, une télévision à écran plat ainsi qu'une salle de bains privative pourvue d'une douche, d'un sèche-cheveux et d'articles de toilette gratuits. Un micro-ondes, un grille-pain, un réfrigérateur et une bouilloire sont également fournis. Le linge de lit et les serviettes de toilette sont fournis.
+
+Vous pourrez également vous détendre sur la terrasse bien exposée.
+
+Vous séjournerez à 1,7 km de l'appartement témoin Perret et à 2,6 km de l'église Saint-Joseph. L'aéroport le plus proche, celui du Havre-Octeville, est situé à 7 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+37,L'Escale Appartements et Suites en bord de Mer,https://www.booking.com/hotel/fr/meuble-tourisme-le-havre.fr.html,17,8.0,49.490069,0.105589,"Récemment rénové, L'Escale Appartements et Suites en bord de Mer est situé au Havre, à proximité de la plage du Havre, du Volcan et de l'appartement témoin Perret. Offrant une vue sur la ville, il se trouve à 400 mètres de l'église Saint-Joseph et à 1 km de l'église Saint-Michel. L'établissement assure un service de ménage ainsi que des services d'enregistrement et de départ privés.
+
+Revêtus de parquet, les logements comprennent un coin repas, une télévision par satellite à écran plat ainsi qu'une salle de bains privative pourvue d'une douche et d'articles de toilette gratuits. Une connexion Wi-Fi est disponible gratuitement. Certaines chambres sont dotées d'un balcon. Le linge de lit et les serviettes sont fournis.
+
+Vous séjournerez à 24 km du musée d'ethnographie et d'art populaire normand et du vieux port de Honfleur. L'aéroport de Deauville-Normandie, le plus proche, est implanté à 38 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+38,Odalys City Le Havre Centre Les Docks,https://www.booking.com/hotel/fr/odalys-city-le-havre-centre-les-docks.fr.html,18,8.5,49.4925039,0.129779,"L'Odalys City Le Havre Centre Les Docks est un hébergement 3 étoiles situé au Havre, à 2,9 km de la plage et à 1,8 km du Volcan. Vous bénéficierez gratuitement d'une connexion Wi-Fi dans l'ensemble des locaux et d'un parking privé sur place. Il propose une réception ouverte 24h/24, un ascenseur et une bagagerie.
+
+Revêtus de moquette, les logements comprennent une kitchenette entièrement équipée avec un lave-vaisselle, un coin repas, une télévision à écran plat ainsi qu'une salle de bains privative pourvue d'une douche et d'un sèche-cheveux. Un micro-ondes, un réfrigérateur, des plaques de cuisson et une machine à café sont également fournis. Le linge de lit et les serviettes de toilette sont fournis.
+
+Cet appart'hôtel sert un petit-déjeuner buffet tous les matins.
+
+Vous séjournerez à 1,8 km de l'appartement témoin Perret et à 1,9 km de l'église Saint-Michel. L'aéroport le plus proche, celui du Havre-Octeville, est situé à 7 km.",Le Havre,49.4938975,0.1079732,18.35,16.95
+39,Eklo Hotels Le Havre,https://www.booking.com/hotel/fr/eklo-hotels-le-havre.fr.html,19,6.2,49.51986371,0.11632614,"L’Eklo Hotels Le Havre est un établissement de style moderne situé au Havre. Il possède une réception ouverte 24h/24, une cuisine commune et une salle à manger. Vous profiterez aussi d’une terrasse sur place.
+
+Les petites chambres insonorisées de l’Eklo Hotels Le Havre sont dotées d’une douche à l’italienne, de toilettes et d’un miroir. Elles sont également équipées d’une télévision à écran plat.
+
+Un petit-déjeuner continental est proposé quotidiennement en libre-service moyennant des frais supplémentaires. Un parking privé est disponible sur place et l’hôtel propose d’autres services (articles de toilette et départ tardif) moyennant des frais supplémentaires.
+
+L’établissement se trouve à 5 km du musée d’art moderne André-Malraux, à 4 km de la salle polyvalente Docks Océane et à 2 minutes à pied du centre commercial Le Grand Cap. Deauville est à 46 km et Honfleur à 28 km. L’arrêt de tramway et station de métro situé devant l’établissement vous permettra de rejoindre directement la gare ferroviaire ou la plage.",Le Havre,49.4938975,0.1079732,18.35,16.95
