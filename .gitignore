@@ -17,6 +17,7 @@ __pycache__/
 # large files Size > 100MB (warning à 50MB)
 # pas moyen de spécifier la taille dans .gitignore
 # Get-ChildItem ./ -recurse | where-object {$_.length -gt 100000000} | Sort-Object length | ft fullname, length -auto
+# ! ATTENTION : 06_unsupervised_ML\98_Project_Uber\00_uber.ipynb Penserà faire "Clear All Outputs"
 uber-trip-data.zip
 cifar10.zip
 911.csv
@@ -29,6 +30,8 @@ training_checkpoints/
 #
 # Get-ChildItem -Path . -Directory -Recurse -Force | Where-Object { $_.Name -eq ".aws" }
 .aws/
+
+
 
 
 # This may help
