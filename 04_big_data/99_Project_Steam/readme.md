@@ -1,6 +1,6 @@
 # Intro
 * The specs of the project are here : https://app.jedha.co/course/project-steam-ft/steam-ft
-* There is a copy of the spec in ``steam.ipynb``
+* There is a copy of the specs in ``steam.ipynb``
 
 # Files organization
 * You may want to read the ``steam_project.pptx`` to have a summaryu of the results
@@ -24,3 +24,12 @@
     1. Are most games available on Windows/Mac/Linux instead?
     1. Do certain genres tend to be preferentially available on certain platforms?
     1. You're free to follow these guidelines, or to choose a different angle of analysis, as long as your analysis reveals relevant and useful information.
+
+### Side note 
+While on Databricks, once a table is on screen, feel free to use the "ordering arrow" at the top of any numerical column in order to display the data in the order that you wish.
+
+See below an example :
+
+<p align="center">
+<img src="./assets/databricks_ordered_desc.png" alt="drawing" width="800"/>
+<p>
