@@ -1,7 +1,6 @@
-# Getaround project readme
+# North face project readme
 
-* The specs of the project are here : https://app.jedha.co/course/project-deployment-ft/getaround-analysis-ft
-
+* The specs of the project are here : https://app.jedha.co/course/projects-unsupervised-machine-learning-ft/the-north-face-ecommerce-ft
 
 ## Read the .pptx first
 * Everything is in the title... We can't do it for you

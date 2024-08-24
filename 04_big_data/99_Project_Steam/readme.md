@@ -1,5 +1,32 @@
-# Intro
+# Steam project readme
+
 * The specs of the project are here : https://app.jedha.co/course/project-steam-ft/steam-ft
+
+## Read the .pptx first
+* Everything is in the title... We can't do it for you
+* The content of the slides is mainly a cut-and-paste of what's available in the project notebook(s) and other files
+* The idea is that the slides should help you understand the project and its results, guiding you step by step
+
+## Files of the project
+
+```
+tree /f
+./
+│   01_steam.ipynb
+│   01_steam_project.pptx
+│   02_steam_part1.ipynb
+│   03_steam_part2.ipynb
+│   04_steam_part3.ipynb
+│   readme.md
+│   
+└───assets
+        databricks_ordered_desc.png
+```
+
+
+## How to use the project ?
+
+
 * There is a copy of the specs in ``steam.ipynb``
 
 # Files organization
