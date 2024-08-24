@@ -1,4 +1,4 @@
-# Readme
+# Kayak project Readme
 
 ## Files of the project
 1. ``kayak_part1.ipynb``
@@ -6,8 +6,7 @@
     1. `scraper7_attributes.py`
     1. `scraper8_hotels_per_city.py`
 
-
-## How to use the project
+## How to use the project ?
 1. Open and run ``kayak_part1.ipynb``
     * It generates one file `.\Project_Kayak\assets\cities.csv`
     * It also display the ranked cities on a map 
@@ -22,10 +21,6 @@
         * ``travel_data.sql`` : sql schema of travel_date.csv
         * ``travel_data.sqlite`` : sqlite version of the travel_date.csv 
         * Few .png files
-
-
-
-
 
 ## Testing scrapy 
 * In order to "play" with scrapy
