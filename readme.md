@@ -70,7 +70,7 @@
     * Project : [Getaround](https://github.com/40tude/fullstack_mars_2024_3/tree/main/08_deployment/99_Project_getaround)
 * Career Coaching
     * [LinkedIn](https://www.linkedin.com/in/baucour/)
-    * [Portfolio](https://github.com/40tude)
+    * [Portfolio](https://github.com/40tude?tab=repositories)
     * Prepare Technical Interviews
 * Final Project
     * Project : [Skin Project](https://github.com/Qv-code-Qv/skin_project/tree/infra/architecture). I was in charge of the architecture and infra.
