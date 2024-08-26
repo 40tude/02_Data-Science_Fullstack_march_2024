@@ -16,7 +16,7 @@ tree /f
 │   readme.md
 │
 └───assets
-    ...
+    Some screen capture, backup, preliminary testing...
 ```    
 
 ## How to use the project ?
