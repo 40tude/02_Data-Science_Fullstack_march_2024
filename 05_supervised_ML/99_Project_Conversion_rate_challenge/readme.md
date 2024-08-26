@@ -20,6 +20,9 @@ tree /f
         csv, png files...
 ```
 
+``assets`` : This directory include some screen captures, backup, preliminary testing... If needed this is where the notebook read the dataset, store the log files, save some ``.json`` or ``.csv`` files...
+
+
 ## How to use the project ?
 
 * Make sure to read the slides ``conversion_rate_challenge.pptx`` first
@@ -27,3 +30,4 @@ tree /f
     * ``02_conversion_rate_challenge_eda.ipynb`` focus on the EDA
     * ``03_conversion_rate_challenge_baseline.ipynb`` is an implementation of a baseline model. Including performance analysis, features importance display and logistic regression threshold adjustment
     * ``04_conversion_rate_challenge_framework.ipynb`` is a framework which helps to select the best parameters and to compare models 
+    * Most of the <span style="color:orange"><b>Comments </b></span> cells are NOT about the code but about the results, the data and ideas we want to share etc.
