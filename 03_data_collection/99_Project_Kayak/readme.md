@@ -35,11 +35,8 @@ tree /f
 └───__pycache__
         ...
 ```
-
-1. ``kayak_part1.ipynb``
-1. ``kayak_part2.ipynb``
-    1. `scraper7_attributes.py`
-    1. `scraper8_hotels_per_city.py`
+* the file ``my_api_id.py`` will be missing. Indeed this file contains my keys to access S3 and various API. It is not pushed on github.
+* include_kayak.py is just a set of constant definitions shared among the files of the project.
 
 ## How to use the project ?
 1. Open and run ``kayak_part1.ipynb``
@@ -56,9 +53,11 @@ tree /f
         * ``travel_data.sql`` : sql schema of travel_date.csv
         * ``travel_data.sqlite`` : sqlite version of the travel_date.csv 
         * Few .png files
+1. One could run ``scraper9_hotels_per_city.py`` or ``scraper8_attributes.py`` from the terminal without paramaters. It is the best method for debug
 
-## Testing scrapy 
-* In order to "play" with scrapy
+
+## Side note
+* If you know nothing about Scrapy 
 * In VSCODE
 * Open a terminal
 * Type `scrapy shell "https://quotes.toscrape.com/page/1/"`

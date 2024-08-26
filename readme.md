@@ -1,7 +1,8 @@
 # Notes and projects source code from my "Data Science & Engineering - Fullstack" training at JEDHA
 
-* The **Fullstack** training comes after the **Essential** training (JEDHA)
-    * Regarding the notes and projects of **Essential** training you can find them [here](https://github.com/40tude/Data_Essentials_Stage_Oct_2023) 
+* The **Fullstack** training comes after the **Essential** training (JEDHA) and before the **Lead** training (JEDHA)
+    * Notes and projects of the **Essential** training are you can find them [here](https://github.com/40tude/Data_Essentials_Stage_Oct_2023) 
+    * Notes and projects of the **Lead** training are available [here](https://github.com/40tude/Data_Essentials_Stage_Oct_2023) 
 * 12 weeks
 * march 18 - june 18 2024
 * JEDHA [web page](https://en.jedha.co/formations/formation-data-scientist) of the **Fullstack** training

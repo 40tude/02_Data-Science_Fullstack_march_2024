@@ -7,6 +7,18 @@
 * The idea is that the slides should help you understand the project and its results, guiding you step by step
 
 ## Files of the project
+```
+tree /f
+./
+│   01_conversion_rate_challenge.pptx
+│   02_conversion_rate_challenge_eda.ipynb
+│   03_conversion_rate_challenge_baseline.ipynb
+│   04_conversion_rate_challenge_framework.ipynb
+│   readme.md
+│   
+└───assets
+        csv, png files...
+```
 
 ## How to use the project ?
 
