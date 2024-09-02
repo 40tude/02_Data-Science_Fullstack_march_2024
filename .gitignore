@@ -7,6 +7,11 @@ secrets.sh
 # fichiers type my-keypair.pem
 *.pem
 
+# TF models
+*.h5
+# TF logs
+logs/
+
 __pycache__/
  *.pyc
 
