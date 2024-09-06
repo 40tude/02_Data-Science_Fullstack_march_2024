@@ -75,12 +75,15 @@ conda install --yes --file requirements.txt
 ```
 
 
-
-
-
 ## How to use the project ?
 * Open, read and run the notebook ``02_att.ipynb``
 * If you want to try BERT model, open, read and run `03_bert.ipynb`
     * This can be very looooong (01H00 typically)
 * Most of the <span style="color:orange"><b>Comments </b></span> cells are NOT about the code but about the results, the data and ideas we want to share etc.
+
+
+## About contributions
+This project was developed for personal and educational purposes. Feel free to explore and use it to enhance your own learning in machine learning.
+
+Given the nature of the project, external contributions are not actively sought or encouraged. However, constructive feedback aimed at improving the project (in terms of speed, accuracy, comprehensiveness, etc.) is welcome. Please note that this project was created as part of a certification process, and it is unlikely to be maintained after the final presentation.
 

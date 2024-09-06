@@ -72,3 +72,7 @@ tree /f
 * Read https://docs.scrapy.org/en/latest/intro/tutorial.html
 * Type ``exit`` to quit
 
+## About contributions
+This project was developed for personal and educational purposes. Feel free to explore and use it to enhance your own learning in machine learning.
+
+Given the nature of the project, external contributions are not actively sought or encouraged. However, constructive feedback aimed at improving the project (in terms of speed, accuracy, comprehensiveness, etc.) is welcome. Please note that this project was created as part of a certification process, and it is unlikely to be maintained after the final presentation.
