@@ -55,7 +55,7 @@
     * Make sure the terminal is open in the ``API`` directory
     * In VSCode, in the `Primary side bar` (left hand side most of the time), in the tree, right click on ``API`` then select `Open in integrated terminal` option
 * Type in : `./build_api_getaround.ps1`
-* At the end``api_gataround`` should be available in Docker
+* At the end``api_getaround`` should be available in Docker
 * TO check it you can either :
     * Type in : ``docker image ls``
     * Check in Docker
@@ -66,7 +66,8 @@
 
 * Type in : ``docker run --rm -p 8000:8000 api_getaround``
 * Point your favorite web browser to : `http://localhost:8000/docs`
-* You can then make the same test as before (see **Local test (WIN11)**)
+    * You can then make the same test as before (see **Local test (WIN11)**)
+    * Close the tab in the browser at the end
 
 <p align="center">
 <img src="./assets/docker_local_docs.png" alt="drawing" width="800"/>
