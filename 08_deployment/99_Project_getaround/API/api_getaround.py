@@ -10,33 +10,51 @@ from fastapi.responses import HTMLResponse
 
 app = FastAPI()
 
-with open('./assets/full_pipeline.pkl', 'rb') as file:
+with open("./assets/full_pipeline.pkl", "rb") as file:
     preprocessor = pickle.load(file)
 
 model = joblib.load("./assets/model_xgb.pkl")
 
+
 class InputData(BaseModel):
     input: list
+
 
 @app.post("/predict")
 async def predict(data: InputData):
     try:
         input_data = data.input
-        input_features = ['model_key', 'mileage', 'engine_power', 'fuel', 'paint_color',
-                        'car_type', 'private_parking_available', 'has_gps',
-                        'has_air_conditioning', 'automatic_car', 'has_getaround_connect',
-                        'has_speed_regulator', 'winter_tires']
+        input_features = [
+            "model_key",
+            "mileage",
+            "engine_power",
+            "fuel",
+            "paint_color",
+            "car_type",
+            "private_parking_available",
+            "has_gps",
+            "has_air_conditioning",
+            "automatic_car",
+            "has_getaround_connect",
+            "has_speed_regulator",
+            "winter_tires",
+        ]
         input_df = pd.DataFrame(input_data, columns=input_features)
         preprocessed_data = preprocessor.transform(input_df)
         prediction = model.predict(preprocessed_data)
         return {"prediction": f"{prediction[0]:.2f} €"}
     except Exception as e:
         print(str(e))
-        raise HTTPException(status_code=500, detail="Error api-getaround. Check that the number of parameters and their spelling are correct.")
+        raise HTTPException(
+            status_code=500,
+            detail="Error api-getaround. Check that the number of parameters and their spelling are correct.",
+        )
+
 
 @app.get("/docs")
 async def get_docs():
     return {"docs_url": "/docs"}
+
 
 @app.get("/", response_class=HTMLResponse)
 async def read_root():
@@ -51,9 +69,9 @@ async def read_root():
                         <li>Use the endpoint <code>/predict</code> to make predictions</li>
                         <li>Use the endpoint <code>/docs</code> to test the API<br />
                             <ul>
-                            <li>Copy and paste the line below for your first test: <code>[&ldquo;Citro&euml;n&rdquo;, &ldquo;140411&rdquo;, &ldquo;100&rdquo;, &ldquo;diesel&rdquo;, &ldquo;black&rdquo;, &ldquo;convertible&rdquo;,true,true,false,false,true,true,true]</code></li>
-                            <li><code></code>In plain English, the features are : <code>model_key, mileage, engine_power, fuel, paint_color, car_type, private_parking_available, has_gps, has_air_conditioning, automatic_car, has_getaround_connect, has_speed_regulator, winter_tires</code></li>
-                            <li>If you run into problems, start by checking that there are 2 square brackets around the parameter list, that you've written <strong>true</strong> and <strong>false</strong> (and not True and False) and that the model is spelled correctly</li>
+                                <li>Copy and paste the line below for your first test: <code>["Citro&euml;n", "140411", "100", "diesel", "black", "convertible", true, true, false, false, true, true, true]</code></li>
+                                <li><code></code>In plain English, the features are : <code>model_key, mileage, engine_power, fuel, paint_color, car_type, private_parking_available, has_gps, has_air_conditioning, automatic_car, has_getaround_connect, has_speed_regulator, winter_tires</code></li>
+                                <li>If you run into problems, start by checking that there are 2 square brackets around the parameter list, that you've written <strong>true</strong> and <strong>false</strong> (and not True and False) and that the model is spelled correctly</li>
                             </ul>
                         </li>
                     </ul>
@@ -63,6 +81,7 @@ async def read_root():
         </html>
     """
     return html_content
+
 
 if __name__ == "__main__":
     # either set ``port`` to the value of the environment variable PORT or use 8000

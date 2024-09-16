@@ -17,14 +17,15 @@
 <img src="./assets/local_welcome.png" alt="drawing" width="800"/>
 <p>
 
-* Read the instructions and copy the string : ["Citroën","140411","100","diesel","black","convertible",true,true,false,false,true,true,true]
+* Read the instructions and copy the string : ``["Citroën","140411","100","diesel","black","convertible",true,true,false,false,true,true,true]``
 * Now, point your browser to `http://localhost:8000/docs`
 * To make a first test : 
     * select "string" 
-    * paste ["Citroën","140411","100","diesel","black","convertible",true,true,false,false,true,true,true]
+    * paste ``["Citroën","140411","100","diesel","black","convertible",true,true,false,false,true,true,true]``
     * Yes, finally, you have double square brakets at the begining and at the end of the parameters list
     * Click "Execute"
 * The prediction should be close to : 114 €
+* If you encounter an exception, double check the kind of double quote. In some cases you may have to re-write them
 
 * Send anything and you will get an exception
 
