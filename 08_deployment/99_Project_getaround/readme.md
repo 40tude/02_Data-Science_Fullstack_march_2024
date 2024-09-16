@@ -11,12 +11,63 @@
 
 ## Files of the project
 
+```
+tree /f
+./
+│   01_getaround_project.pptx
+│   02_getaround_pricing.ipynb
+│   03_getaround_threshold.ipynb
+│   readme.md
+│   
+├───API
+│   │   api_getaround.py
+│   │   build_api_getaround.ps1
+│   │   Dockerfile
+│   │   environment.yml
+│   │   readme.md
+│   │   requirements.txt
+│   │   test_pickle.ipynb
+│   │   
+│   ├───assets
+│   │       full_pipeline.pkl
+│   │       model_xgb.pkl
+│   │
+│   └───__pycache__
+│
+├───assets
+│       environment.yml
+│       full_pipeline.pkl
+│       get_around_delay_analysis.xlsx
+│       get_around_pricing_project.csv
+│       model_xgb.pkl
+│       requirements.txt
+│       test_pickle.ipynb
+│
+└───dashboard
+    │   build_dashboard_getaround.ps1
+    │   dashboard.py
+    │   deploy_dashboard_getaround.ps1
+    │   Dockerfile
+    │   readme.md
+    │   requirements.txt
+    │
+    └───assets
+            get_around_delay_analysis.xlsx
+```
+
+
 ``assets`` : This directory include some screen captures, backup, preliminary testing... If needed this is where the notebook read the dataset, store the log files, save some ``.json`` or ``.csv`` files...
 
 
 ## How to use the project ?
+1. Once you read the slides `01_getaround_project.pptx`
+1. Then you can open and run `02_getaround_pricing.ipynb`
+1. Finally open and run `03_getaround_threshold.ipynb`
+1. Then go to to the ``./API`` and read the ``readme.md`` to get instructions
+1. Do the same thing in the `./dashboard` directory
 
-* Most of the <span style="color:orange"><b>Comments </b></span> cells of the notebooks are NOT about the code but about the results, the data and ideas we want to share etc.
+### Note
+In the Jupyter Notebook, most of the <span style="color:orange"><b>Comments </b></span> cells of the notebooks are NOT about the code but about the results, the data and ideas we want to share etc.
 
 
 ## About contributions

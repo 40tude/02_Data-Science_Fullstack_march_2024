@@ -173,14 +173,16 @@ def main():
     ###########################################################################
     st.header("Executive summary")
     st.markdown(
-        """
-            * If corporate want to promote Connect :
-                * Connect : set the Treshold to 1H30 and target 10% of problematic returns
-                * Mobile : set the Treshold to 3H00 and target 10% of problematic returns (13% today)
+        r"""
+            * If the company wants to promote Connect as a faster way to rent a car :
+                * Connect : set the Treshold to 1H30 and target 10% of problematic returns (11% today)
+                * Mobile : set the Treshold to 3H00 and target 10% of problematic returns (12.5% today)
+                * Put in place an action plan (incentive, communication...)
             * If we want to make no differentiation between connect or mobile
                 * Set the Treshold to 2H 
-                * Target 10 % of the problematic returns (16% today)
-            * Let the leaser the ability to add its own Time $\Delta$
+                * Target 10 % of the problematic returns (15.5% today)
+                    * Put in place an aggressive action plan
+            * Let's leave it up to the vehicle owners to add their own time $\Delta$ to the Treshold
 
         """
     )
@@ -202,7 +204,7 @@ def main():
     # st.dataframe(df.sample(15))
 
     # Correct a typo.
-    # See 08_deployment\99_Project_getaround\03_getarround_pricing.ipynb for the detail
+    # See 08_deployment\99_Project_getaround\02_getaround_pricing.ipynb for the detail
     df.at[16344, "delay_at_checkout_in_minutes"] = np.nan
 
     df_tmp = quick_View(df)
@@ -210,7 +212,7 @@ def main():
     st.dataframe(df_tmp.sort_values(by="# null", ascending=False))
 
     st.markdown(
-        """
+        r"""
             ### :orange[**Comments :**]
             * Only 2 values for ``checkin_type`` (mobile, connect) and ``state`` (ended, canceled) 
             * There are "only" 25 uniques value in `time_delta_with_previous_rental_in_minutes` 
@@ -288,7 +290,7 @@ def main():
     st.dataframe(df_pivot)
 
     st.markdown(
-        """
+        r"""
             ### :orange[**Comments :**]
             * We now have more information about the bookings which are not canceled
             * When 2 bookings are consecutive with a Time $\Delta$ between them most of the rentals are on time (returns happen before `time_delta_with_previous_rental_in_minutes`)
@@ -312,7 +314,7 @@ def main():
     st.pyplot(fig)
 
     st.markdown(
-        """
+        r"""
             ### :orange[**Comments :**]
             * Surprisingly, no matter the `checkin_type`, the number of Time $\Delta$ do not decrease when its values become extreme
             * The count of Time $\Delta$ close to 12H (720 min.) is similar to the number of Time $\Delta$ close to 2H (120 min.)
@@ -328,10 +330,11 @@ def main():
     # How often are drivers late for the next check-in? How does it impact the next driver?
     st.header("How often are drivers late for the next check-in? How does it impact the next driver?")
 
-    st.image("./assets/no_treshold.png", caption="No Threshold", width=800)
+    # st.image("./assets/no_treshold.png", caption="No Threshold", width=800)
+    st.image("./assets/no_treshold.png", caption="No Threshold", use_column_width=True)
 
     st.markdown(
-        """
+        r"""
             ### :orange[**Comments :**]
             There are two cases, depending on whether there is a previous rental or not :
             1. No previous driver (top of the figure, blue)
@@ -479,10 +482,11 @@ def main():
     # How does it impact the next driver?
     st.header("How often are drivers late for the next check-in? How does it impact the next driver?")
 
-    st.image("./assets/no_treshold.png", caption="No Threshold", width=800)
+    # st.image("./assets/no_treshold.png", caption="No Threshold", width=800)
+    st.image("./assets/no_treshold.png", caption="No Threshold", use_column_width=True)
 
     st.markdown(
-        """
+        r"""
             This point have been already addressed
 
             We consider as problematic the following kind of returns :
@@ -498,10 +502,11 @@ def main():
 
     st.header("How many rentals would be affected by the feature depending on the threshold and scope we choose?")
 
-    st.image("./assets/with_treshold.png", caption="No Threshold", width=800)
+    # st.image("./assets/with_treshold.png", caption="No Threshold", width=800)
+    st.image("./assets/with_treshold.png", caption="No Threshold", use_column_width=True)
 
     st.markdown(
-        """
+        r"""
             * At this point, it is not clear in the specifications if the Threshold comes in addition to the Time $\Delta$, if it replace it...
             * :orange[**Decision :**] until further notice, we'll assume that Threshold simply replaces Time Delta 
             * The rentals taken into account are :
@@ -551,7 +556,7 @@ def main():
     # nb = len(df_tmp[(df_tmp['delay_at_checkout_in_minutes'] > 0 )])
     # nb = len(df_tmp)
     nb = len(df_tmp[(df_tmp["delay_at_checkout_in_minutes"].notna())])
-    print(nb)
+    # print(nb)
 
     rates = []
     for t in thresholds:
@@ -571,12 +576,12 @@ def main():
 
     # xv and yh are "hand adjusted" to cross at 20%
     xv = 90
-    yh = 20  # epsilon
+    yh = 20
     plt.axvline(x=xv, color="red", linestyle="--")
     plt.axhline(y=yh, color="red", linestyle="--")
 
     xv1 = 180
-    yh1 = 10.7  # epsilon
+    yh1 = 10.7
     plt.axvline(x=xv1, color="blue", linestyle="--")
     plt.axhline(y=yh1, color="blue", linestyle="--")
 
@@ -636,10 +641,10 @@ def main():
     # number of reservations with delay_at_checkout_in_minutes > 0
     # nb_late = len(df_tmp[(df_tmp['delay_at_checkout_in_minutes'] > 0 )])
     # nb = len(df_tmp[(df_tmp['delay_at_checkout_in_minutes'] > 0 )])
-    # nb = len(df_tmp)
+    nb = len(df_tmp)
 
     nb = len(df_tmp[(df_tmp["delay_at_checkout_in_minutes"].notna())])
-    print(nb)
+    # print(nb)
 
     rates = []
     for t in thresholds:
@@ -659,7 +664,7 @@ def main():
 
     # xv and yh are "hand adjusted" to cross at 20%
     xv = 105
-    yh = 20  # epsilon
+    yh = 20
     plt.axvline(x=xv, color="red", linestyle="--")
     plt.axhline(y=yh, color="red", linestyle="--")
 
@@ -706,7 +711,7 @@ def main():
     # nb = len(df_tmp)
 
     nb = len(df_tmp[(df_tmp["delay_at_checkout_in_minutes"].notna())])
-    print(nb)
+    # print(nb)
 
     rates = []
     for t in thresholds:
@@ -726,7 +731,7 @@ def main():
 
     # xv and yh are "hand adjusted" to cross at 20%
     xv = 49
-    yh = 20  # epsilon
+    yh = 20
     plt.axvline(x=xv, color="red", linestyle="--")
     plt.axhline(y=yh, color="red", linestyle="--")
     st.pyplot(fig)
@@ -736,7 +741,7 @@ def main():
     st.header("How many problematic cases will it solve depending on the chosen threshold and scope?")
 
     st.markdown(
-        """
+        r"""
             ### :orange[**Comments :**]
             * The question has been already answered
             * Using the previous graphs we can see :
@@ -746,15 +751,28 @@ def main():
             ### :orange[**Overall recommendation :**] 
             * If corporate want to promote Connect :
                 * Connect : set the Treshold to 1H30 and target 10% of problematic returns
-                * Mobile : set the Treshold to 3H00 and target 10% of problematic returns (13% today)
+                * Mobile : set the Treshold to 3H00 and target 10% of problematic returns
             * If we want to make no differentiation between connect or mobile
                 * Set the Treshold to 2H 
-                * Target 10 % of the problematic returns (16% today)
-            * Let the leaser the ability to add its own Time $\Delta$
+                * Target 10 % of the problematic returns
+            * Let's leave it up to the vehicle owners to add their own time $\Delta$ to the Treshold
         """
     )
 
     ###########################################################################
+    # Overall recommendation
+    st.header("Overall recommendation")
+    st.markdown(
+        r"""
+            * If the company wants to promote Connect as a faster way to rent a car :
+                * Connect : set the Treshold to 1H30 and target 10% of problematic returns
+                * Mobile : set the Treshold to 3H00 and target 10% of problematic returns
+            * If we want to make no differentiation between Connect or Mobile
+                * Set the Treshold to 2H 
+                * Target 10 % of the problematic returns
+            * Let the leaser the ability to add its own Time $\Delta$
+        """
+    )
 
 
 if __name__ == "__main__":
