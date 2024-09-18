@@ -20,6 +20,7 @@ class InputData(BaseModel):
     input: list
 
 
+# -----------------------------------------------------------------------------
 @app.post("/predict")
 async def predict(data: InputData):
     try:
@@ -51,11 +52,13 @@ async def predict(data: InputData):
         )
 
 
+# -----------------------------------------------------------------------------
 @app.get("/docs")
 async def get_docs():
     return {"docs_url": "/docs"}
 
 
+# -----------------------------------------------------------------------------
 @app.get("/", response_class=HTMLResponse)
 async def read_root():
     html_content = """
@@ -83,6 +86,7 @@ async def read_root():
     return html_content
 
 
+# -----------------------------------------------------------------------------
 if __name__ == "__main__":
     # either set ``port`` to the value of the environment variable PORT or use 8000
     port = int(os.environ.get("PORT", 8000))
