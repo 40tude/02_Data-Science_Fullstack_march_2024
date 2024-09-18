@@ -76,9 +76,10 @@ conda install --yes --file requirements.txt
 
 
 ## How to use the project ?
+* Read the slides
 * Open, read and run the notebook ``02_att.ipynb``
 * If you want to try BERT model, open, read and run `03_bert.ipynb`
-    * This can be very looooong (01H00 typically)
+    * The training can be very looooong (01H00 typically)
 * Most of the <span style="color:orange"><b>Comments </b></span> cells are NOT about the code but about the results, the data and ideas we want to share etc.
 
 
