@@ -1,8 +1,9 @@
 # Notes and projects source code from my "Data Science & Engineering - Fullstack" training at JEDHA
 
-* The **Fullstack** training comes after the **Essential** training (JEDHA) and before the **Lead** training (JEDHA)
-    * Notes and projects of the **Essential** training are you can find them [here](https://github.com/40tude/Data_Essentials_Stage_Oct_2023) 
-    * Notes and projects of the **Lead** training are available [here](https://github.com/40tude/Data_Essentials_Stage_Oct_2023) 
+* JEDHA Bootcamp's **Fullstack** training course leads to official professional certification ([RNCP 35_288](https://www.francecompetences.fr/recherche/rncp/35288/)): “Machine Learning Engineer”.
+* The **Fullstack** training comes after the **Essential** training and before the **Lead** training :
+    * My Notes and Projects of the **Essential** training are available [here](https://github.com/40tude/Data_Essentials_Stage_Oct_2023) 
+    * My Notes and Projects of the **Lead** training are available [here](https://github.com/40tude/lead_june_2024). JEDHA Bootcamp's **Lead** training course leads to official professional certification ([RNCP 38_777](https://www.francecompetences.fr/recherche/rncp/38777/)): “Artificial intelligence architect”.
 * 12 weeks
 * march 18 - june 18 2024
 * JEDHA [web page](https://en.jedha.co/formations/formation-data-scientist) of the **Fullstack** training

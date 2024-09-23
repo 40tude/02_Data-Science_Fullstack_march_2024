@@ -21,6 +21,19 @@ class InputData(BaseModel):
 
 
 # -----------------------------------------------------------------------------
+# TODO : test if we can use default parameters and get rid of "string"
+# @app.get("/items/")
+# def read_items(
+#     q: str = "default_value",
+#     limit: int = 10):
+
+#     return {
+#         "q": q,
+#         "limit": limit
+#     }
+
+
+# -----------------------------------------------------------------------------
 @app.post("/predict")
 async def predict(data: InputData):
     try:
