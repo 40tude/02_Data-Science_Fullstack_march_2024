@@ -1,12 +1,27 @@
-# Install Powershell
-``winget install --id Microsoft.PowerShell --source winget``
+# Configure NVDIA performance counters
 
 <p align="center">
-<img src="./assets/gpu_wsl/01_install_ubuntu.png" alt="drawing" width="800"/>
+<img src="./assets/gpu_wsl/09_nvidia_dev.png" alt="drawing" width="800"/>
 <p>
 
+<p align="center">
+<img src="./assets/gpu_wsl/10_nvidia_counter.png" alt="drawing" width="800"/>
+<p>
+
+# Install Powershell (<> Windows Powershell)
+
+* https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4
+* Open a Windows Powershell terminal
+
+``winget install --id Microsoft.PowerShell --source winget``
+
+* Close the Windows Powershell terminal
+* Open a Powershell terminal 
+
+
 # Install WSL
-https://learn.microsoft.com/en-us/windows/wsl/install
+
+ * https://learn.microsoft.com/en-us/windows/wsl/install
 
 ```
 wsl --install
@@ -17,15 +32,61 @@ wsl -l -v       # to check what is running
 <img src="./assets/gpu_wsl/02_list_distrib.png" alt="drawing" width="800"/>
 <p>
 
+* You may want to uninstall Unbuntu and start a fresh installation 
+    * Yes you can have multiple instances of Ubuntu but this is not the point here
+
 ``wsl --unregister Ubuntu``
 
 <p align="center">
 <img src="./assets/gpu_wsl/03_uninstall_ubuntu.png" alt="drawing" width="800"/>
 <p>
 
+
+
+# Install VSCode WSL Extension
+
+* Open a Powershell terminal
+* Launch VSCode
+* Look for and install WSL Extension
+* Leave VSCode
+
+<p align="center">
+<img src="./assets/gpu_wsl/08_wsl_extension.png" alt="drawing" width="800"/>
+<p>
+
+* From the command line one could use :
+```
+code --list-extensions
+code --install-extension ms-vscode-remote.remote-wsl
+# code --uninstall-extension ms-vscode.csharp
+```
+
+
+
+
+# Install Ubuntu
+
+```
+wsl --install -d Ubuntu
+```
+
+<p align="center">
+<img src="./assets/gpu_wsl/01_install_ubuntu.png" alt="drawing" width="800"/>
+<p>
+
+* Double check the prompt ending with `$`
+* Leave the session (`exit`)
+
+
+
+
+## Test Ubuntu
+
+* Restart a session and leave it
+
+
 ```
 wsl -d Ubuntu
-
 exit
 ```
 
@@ -37,8 +98,9 @@ exit
 
 
 
-# Install CUDA
+# Install CUDA under Unbuntu
 
+* Start a session
 
 ```
 wsl -d Ubuntu
@@ -51,6 +113,8 @@ sudo apt install nvidia-cuda-toolkit
 <p>
 
 
+## Testing
+
 ```
 nvidia-smi
 ```
@@ -62,34 +126,21 @@ nvidia-smi
 
 
 ```
-nvcc
+nvcc -V
 ```
 <p align="center">
 <img src="./assets/gpu_wsl/07_nvcc.png" alt="drawing" width="800"/>
 <p>
 
 
-# Install VSCode WSL Extension
 
-<p align="center">
-<img src="./assets/gpu_wsl/08_wsl_extension.png" alt="drawing" width="800"/>
-<p>
 
-```
-code --list-extensions
-code --install-extension ms-vscode-remote.remote-wsl
-# code --uninstall-extension ms-vscode.csharp
-```
 
-# Config NVDIA
 
-<p align="center">
-<img src="./assets/gpu_wsl/09_nvidia_dev.png" alt="drawing" width="800"/>
-<p>
 
-<p align="center">
-<img src="./assets/gpu_wsl/10_nvidia_counter.png" alt="drawing" width="800"/>
-<p>
+
+
+
 
 
 # Sample code
