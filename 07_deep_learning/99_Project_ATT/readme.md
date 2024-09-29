@@ -14,10 +14,13 @@
 ```
 tree /f
 ./
-C:.
 │   01_att_project.pptx
-│   02_att.ipynb
-│   03_bert.ipynb
+│   02_att_01.ipynb     # Baseline model
+│   02_att_02.ipynb     # Baseline + SMOTE
+│   02_att_03.ipynb     # Baseline + Random Under Sampler
+│   03_bert01.ipynb     # TF Bert model uncased
+│   03_bert02.ipynb     # TF Bert model cased
+│   03_bert03.ipynb     # TF Bert For Sequence Classification model uncased
 │   readme.md
 │   
 ├───assets
@@ -44,42 +47,71 @@ C:.
 1. Visit the url with your browser
 
 ## Virtual env ?
-* We recommend to create a python virtual environment
+* I strongly recommend to create a python virtual environment
 * If you use ``conda`` follow the instructions below
-    * If not, you should be able to use `./assets/requirements.txt` your way
 
+### Option 1 - recommended
 ```
 WIN + X + I                            # to open a terminal
-conda create --name att python=3.10
-conda activate att
+conda deactivate                       # to come back in the base virtual environment 
+conda create --name tf_cpu1 --file ./assets/requirements.txt -c conda-forge -y
+conda activate tf_cpu1
 code .
-
-# VSCode will ask to install ipykernel
-
-# Open a terminal in VScode, double check that att is the current environment 
-# Once this is done install the following packages by hand
-conda install tensorflow
-conda install pydot
-conda install spacy
-conda install pandas
-conda install wordcloud
-conda install scikit-learn 
-conda install plotly
-conda install nbformat
-conda install transformers
-python -m spacy download en_core_web_sm
-
-# or use ./assets/requirements.txt
-conda install --yes --file requirements.txt
-
 ```
+
+### Option 2
+```
+WIN + X + I                            # to open a terminal
+conda deactivate                       # to come back in the base virtual environment 
+conda create --name tf_cpu1 python=3.10 -y
+conda activate tf_cpu1
+conda install pandas numpy tensorflow wordcloud matplotlib plotly scikit-learn spacy-model-en_core_web_sm nbformat graphviz pytdot imbalanced-learn -y
+code .
+# VSCode will ask to install ipykernel
+```
+
+
+
 
 
 ## How to use the project ?
 * Read the slides
-* Open, read and run the notebook ``02_att.ipynb``
-* If you want to try BERT model, open, read and run `03_bert.ipynb`
-    * The training can be very looooong (01H00 typically)
+
+### Running the baseline model 
+* Open, read and run the notebook ``02_att_01.ipynb``
+    * Compared to ``02_att_01.ipynb``, ``02_att_02.ipynb`` and ``02_att_03.ipynb`` simply add over and under sampling
+
+### Running the TF BERT model
+* You want to run ``03_bert_01.ipynb`` and ``03_bert_02.ipynb`` 
+    * Because of version issues between tensorflow, keras, transformers... 
+    * You should create a new virtual environment (see below) 
+    * open a terminal in the root directory of the project 
+    ```    
+        conda deactivate                   # to come back in base environment
+        conda create --name tf_cpu_bert_model --file .\07_deep_learning\99_Project_ATT\assets\requirements_tf_cpu_bert_model.txt -c conda-forge -y
+        conda activate tf_cpu_bert_model
+        code . 
+    ```    
+    * read and run ``03_bert_01.ipynb`` or ``03_bert_02.ipynb`` 
+    * The training can be very looooong (more than 01H00 typically)
+
+### Running the TF Bert For Sequence Classification model
+* **I'M STILL WORKING ON IT**
+    * A nightmare from the version management point of view
+    * `requirements_tf_cpu_bert_seq_model.txt` not yet available
+* You want to run ``03_bert_03.ipynb``  
+    * Because of version issues between tensorflow, keras, transformers... 
+    * You should create a third virtual environment 
+    * open a terminal in the root directory of the project 
+    ```    
+        conda deactivate                   # to come back in base environment
+        conda create --name tf_cpu_bert_model --file .\07_deep_learning\99_Project_ATT\assets\requirements_tf_cpu_bert_seq_model.txt -c conda-forge -y
+        conda activate tf_cpu_bert_seq_model
+        code . 
+    ```    
+    * Read then run ``03_bert_03.ipynb``  
+ 
+
 * Most of the <span style="color:orange"><b>Comments </b></span> cells are NOT about the code but about the results, the data and ideas we want to share etc.
 
 
