@@ -90,7 +90,7 @@ code .
         conda deactivate                   # to come back in base environment
         conda create --name tf_cpu_bert_model --file .\07_deep_learning\99_Project_ATT\assets\requirements_tf_cpu_bert_model.txt -c conda-forge -y
         conda activate tf_cpu_bert_model
-        code . 
+        code . v
     ```    
     * read and run ``03_bert_01.ipynb`` or ``03_bert_02.ipynb`` 
     * The training can be very looooong (more than 01H00 typically)
@@ -98,14 +98,13 @@ code .
 ### Running the TF Bert For Sequence Classification model
 * **I'M STILL WORKING ON IT**
     * A nightmare from the version management point of view
-    * `requirements_tf_cpu_bert_seq_model.txt` not yet available
 * You want to run ``03_bert_03.ipynb``  
     * Because of version issues between tensorflow, keras, transformers... 
     * You should create a third virtual environment 
     * open a terminal in the root directory of the project 
     ```    
         conda deactivate                   # to come back in base environment
-        conda create --name tf_cpu_bert_model --file .\07_deep_learning\99_Project_ATT\assets\requirements_tf_cpu_bert_seq_model.txt -c conda-forge -y
+        conda create --name tf_cpu_bert_seq_model --file .\07_deep_learning\99_Project_ATT\assets\requirements_tf_cpu_bert_seq_model.txt -c conda-forge -y
         conda activate tf_cpu_bert_seq_model
         code . 
     ```    
